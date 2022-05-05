@@ -1,0 +1,130 @@
+.pag__inicio {
+
+  @include pagina;
+  height: 100vh;
+  background-image: url("../images/fondo-pagina.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-top: 1px solid map-get($colores, principal-1);
+}
+
+.carousel {
+  height: 100vh;
+}
+/*********************************/
+/***********CARRUSEL**************/
+/*********************************/
+// .carousel-item {
+
+//   img {
+//     height: 100vh;
+//     width: 100vw;
+//     overflow: hidden;
+//     object-fit: cover;
+//     filter: grayscale(100%) sepia(20%)brightness(50%);
+//   }
+
+//   .carousel-caption {
+//     background-color: map-get($colores, sombra);
+//     text-align: center;
+//     padding: 1.5rem;
+//     border-radius: .5rem;
+//     font-weight: 200;
+
+//     h2 {
+//       font-size: 1.5rem;
+//       font-weight: 300;
+//       color: map-get($colores, frente);
+//       text-shadow: 0 0 15px map-get($colores, fondo);
+//       background-color: transparent;
+//     }
+
+//     h3 {
+//       font-size: 1.25rem;
+//       font-weight: 300;
+//       color: map-get($colores, frente);
+
+//     }
+
+//     p,
+//     a {
+//       font-size: 1rem;
+//       font-weight: 200;
+//       color: map-get($colores, frente );
+//     }
+
+//     .carousel-btn {
+//       background-color: map-get($colores, principal-8);
+//       color: map-get($colores, frente);
+//       border-color: map-get($colores, principal-1);
+//       font-weight: 200;
+//       border-radius: .5rem;
+//       padding: .5rem;
+//       font-size: 1rem;
+//       text-decoration: none;
+//     }
+//   }
+
+//   @media (min-width: 768px) {
+//     .carousel-caption {
+//       h2 {
+//         font-size: 2rem;
+//         font-weight: 300;
+//         color: map-get($colores, frente);
+//         text-shadow: 0 0 15px map-get($colores, fondo);
+//       }
+
+//       h3 {
+//         font-size: 1.75rem;
+//       }
+
+//       p,
+//       a {
+//         font-size: 1.5rem;
+//       }
+//     }
+//   }
+
+//   @media (min-width: 1200px) {
+//     .carousel-caption {
+//       h2 {
+//         font-size: 2.5rem;
+//         font-weight: 300;
+//         color: map-get($colores, frente);
+//         text-shadow: 0 0 .5rem map-get($colores, fondo);
+//       }
+
+//       h3 {
+//         font-size: 2rem;
+//       }
+
+//       p,
+//       a {
+//         font-size: 1.5rem;
+//       }
+//     }
+//   }
+// }
+
+.cartaCarousel {
+  width: 20rem;
+  height: 34rem;
+  box-sizing: border-box;
+  padding: .25rem;
+  background-color: white;
+  display: inline-block;
+  border-radius: .5rem;
+  font-size: 30pt;
+  color: black;
+  position: relative;
+  transition: all 0.5s;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 5px 3px #555;
+  img {
+    width: 19rem;
+    border-radius: .25rem;
+  }
+}
+

@@ -1,0 +1,1188 @@
+[
+    {
+      "temas": "Unico",
+      "descripcion":
+        "El divertido y enérgico 8-Bit Tarot es un tributo a los juegos de arcade clásicos de los años 80, con imágenes reproducidas digitalmente del clásico Rider-Waite Tarot reinventado píxel por píxel por el artista Indigo Kelleigh.",
+      "altThmb": "8-Bit Tarot (Imagen en miniatura)",
+      "archivo": "8-bit",
+      "alt": "8-Bit Tarot",
+      "nombre": "8-Bit Tarot"
+    },
+    {
+      "temas": "Unico,Inclusivo",
+      "descripcion":
+        "African Tarot reinventa la baraja Rider-Waite Tarot con imágenes exuberantes que presentan colores brillantes y símbolos inspirados en las culturas indígenas de Sudáfrica.",
+      "altThmb": "African Tarot (Imagen en miniatura)",
+      "archivo": "african",
+      "alt": "African Tarot",
+      "nombre": "African Tarot"
+    },
+  
+    {
+      "temas": "Clasico,Popular",
+      "descripcion":
+        "El Angel Tarot combina características de varias barajas de tarot populares, incluido el Tarot de Marsella, Tarot Clasico y Starter Tarot, con imágenes espaciales de ángeles flotando sobre planetas.",
+      "altThmb": "Angel Tarot (Imagen en miniatura)",
+      "archivo": "angel",
+      "alt": "Angel Tarot",
+      "nombre": "Angel Tarot"
+    },
+  
+    {
+      "temas": "Principiantes,Clasico",
+      "descripcion":
+        "¡Excelente baraja de Tarot para principiantes! La baraja Apprentice elimina las conjeturas al aprender el Tarot. Este mazo combina imágenes de Rider-Waite con palabras clave informativas impresas directamente en las cartas para que puedas aprender sobre la marcha.",
+      "altThmb": "Apprentice (Imagen en miniatura)",
+      "archivo": "apprentice",
+      "alt": "Apprentice",
+      "nombre": "Apprentice"
+    },
+    {
+      "temas": "Hermoso,Vintage,Popular",
+      "descripcion":
+        "El mazo de Tarot de Acuario está ilustrado por David Palladini y combina los estilos Art Deco y Art Nouveau para llevar el simbolismo del Tarot medieval a la era Modernoa de Acuario.",
+      "altThmb": "Aquarian (Imagen en miniatura)",
+      "archivo": "aquarian",
+      "alt": "Aquarian",
+      "nombre": "Aquarian"
+    },
+  
+    {
+      "temas": "Unico,Moderno",
+      "descripcion":
+        "Ofrece nuevas interpretaciones de los arcanos menores y mayores. Archeon Tarot integra el arte y la iconografía de la mitología, el misticismo y las imágenes de los sueños para crear un lenguaje visual del alma.",
+      "altThmb": "Archeon (Imagen en miniatura)",
+      "archivo": "archeon",
+      "alt": "Archeon",
+      "nombre": "Archeon"
+    },
+  
+    {
+      "temas": "Hermoso,Vintage,Amor",
+      "descripcion":
+        "Figuras estilizadas y vidrieras caracterizan la baraja Art Nouveau Tarot, que está pintada según la tradición de este arte decorativo de principios de siglo.",
+      "altThmb": "Art Nouveau (Imagen en miniatura)",
+      "archivo": "art-nv",
+      "alt": "Art Nouveau",
+      "nombre": "Art Nouveau"
+    },
+  
+    {
+      "temas": "Unico,Clasico",
+      "descripcion":
+        "El arte y la perspicacia se unen en la baraja El arte de la vida. Con obras de arte conocidas combinadas con citas perspicaces, estas tarjetas se combinan maravillosamente para lecturas completas o se presentan solas para ofrecer inspiración diaria.",
+      "altThmb": "Art of Life (Imagen en miniatura)",
+      "archivo": "art-of-life",
+      "alt": "Art of Life",
+      "nombre": "Art of Life"
+    },
+  
+    {
+      "temas": "Unico,Inclusivo",
+      "descripcion":
+        "Cagliostro Tarot es una edición revisada de la baraja de cartas Cagliostro publicada por primera vez en 1912, que presenta simbolismo e imágenes extraídas de la mitología y la cultura egipcias.",
+      "altThmb": "Cagliostro (Imagen en miniatura)",
+      "archivo": "cagliostro",
+      "alt": "Cagliostro",
+      "nombre": "Cagliostro"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "El Cary-Yale Visconti Tarocchi Deck está compuesto por 22 cartas de Arcanos Mayores y 64 de Arcanos Menores. La baraja incluye reproducciones de cartas tarocchi de la Colección Cary de Naipes, ahora alojada en la Universidad de Yale. Se han recreado diecinueve tarjetas para reemplazar las originales que faltan. Además del Rey y la Reina, cada palo en los Arcanos Menores contiene Caballeros y Pajes masculinos y femeninos.",
+      "altThmb": "Cary-Yale Visconti Tarocchi (Imagen en miniatura)",
+      "archivo": "cary-yale-visconti",
+      "alt": "Cary-Yale Visconti Tarocchi",
+      "nombre": "Cary-Yale Visconti Tarocchi"
+    },
+  
+    {
+      "temas": "Animal",
+      "descripcion":
+        "Tarot of the Cat People combina ciencia ficción y fantasía en una colorida baraja con gatos domésticos, leones, leopardos y más, perfecta para los amantes de los gatos y del Tarot por igual.",
+      "altThmb": "Cat People (Imagen en miniatura)",
+      "archivo": "cat-people",
+      "alt": "Cat People",
+      "nombre": "Cat People "
+    },
+  
+    {
+      "temas": "Animal",
+      "descripcion":
+        "Los gatos son agradables a la vista, complejos en sus comportamientos y misteriosos en sus estados de ánimo, lo que proporciona un modelo perfecto para un medio visualmente evocador como el Tarot. Cada carta de la baraja Cat's Eye Tarot cuenta una historia, ilustrada desde un punto de vista felino.",
+      "altThmb": "Cat's Eye (Imagen en miniatura)",
+      "archivo": "cats-eye",
+      "alt": "Cat's Eye",
+      "nombre": "Cat's Eye"
+    },
+  
+    {
+      "temas": "Hermoso,Popular",
+      "descripcion":
+        "Los astrólogos Kay Steventon y Brian Clark crearon Celestial Tarot con imágenes míticas, simbolismo y astronomía de los planetas entrelazados con elementos astrológicos, signos del zodiaco, constelaciones y estrellas.",
+      "altThmb": "Celestial (Imagen en miniatura)",
+      "archivo": "celestial",
+      "alt": "Celestial",
+      "nombre": "Celestial"
+    },
+  
+    {
+      "temas": "Inclusivo",
+      "descripcion":
+        "La bonita baraja del Tarot chino de Jui Guoliang utiliza obras de arte asiáticas tradicionales con colores vibrantes e ilustraciones delicadas al estilo de Rider-Waite para capturar el encanto y el misterio de la antigua China.",
+      "altThmb": "Chinese (Imagen en miniatura)",
+      "archivo": "chinese",
+      "alt": "Chinese",
+      "nombre": "Chinese"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Fantasia",
+      "descripcion":
+        "La baraja Chrysalis Tarot abre tu psique e ilumina tu camino hacia el destino personal. Personajes de otro mundo exquisitamente dibujados y arquetipos mitológicos te guían en tu búsqueda espiritual.",
+      "altThmb": "Chrysalis (Imagen en miniatura)",
+      "archivo": "chrysalis",
+      "alt": "Chrysalis",
+      "nombre": "Chrysalis"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "Los diseños clásicos realzan la colorida baraja Tarot Clasico, que se basa en grabados en madera originales realizados por Claude Burdel en 1851, en un ingenioso estilo marsellés.",
+      "altThmb": "Clasico (Imagen en miniatura)",
+      "archivo": "classic",
+      "alt": "Clasico",
+      "nombre": "Clasico"
+    },
+  
+    {
+      "temas": "Vintage",
+      "descripcion":
+        "El Tarot Connolly es una baraja popular de cartas vibrantes que se atenúan un poco para proporcionar imágenes más pacíficas, edificantes e inspiradoras para aprovechar su subconsciente.",
+      "altThmb": "Connolly (Imagen en miniatura)",
+      "archivo": "connolly",
+      "alt": "Connolly",
+      "nombre": "Connolly"
+    },
+  
+    {
+      "temas": "Hermoso,Vintage,Popular",
+      "descripcion":
+        "Los diseños únicos de la baraja Cosmic Tarot de Norbert Losche traen conocimientos antiguos a los lectores Modernoos a través de imágenes simples pero bellamente dibujadas que se asemejan a figuras familiares en nuestras vidas.",
+      "altThmb": "Cosmic (Imagen en miniatura)",
+      "archivo": "cosmic",
+      "alt": "Cosmic",
+      "nombre": "Cosmic"
+    },
+  
+    {
+      "temas": "Moderno,Popular",
+      "descripcion":
+        "La imaginativa baraja Cosmic Slumber Tarot habla a la mente subconsciente, presentando imágenes coloridas pintadas a mano que están destinadas a evocar respuestas y conocimientos desde adentro. Creado por la galardonada dibujante de cómics Tillie Walden.",
+      "altThmb": "Cosmic Slumber (Imagen en miniatura)",
+      "archivo": "cosmic-slumber",
+      "alt": "Cosmic Slumber",
+      "nombre": "Cosmic Slumber"
+    },
+  
+    {
+      "temas": "Vintage,Clasico,Popular",
+      "descripcion":
+        "La baraja Crowley Thoth Tarot, ilustrada con instrucciones del famoso erudito ocultista Aleister Crowley, es única por su hermoso diseño Art Deco y la inclusión de tres cartas Magus (Mago).",
+      "altThmb": "Crowley (Imagen en miniatura)",
+      "archivo": "crowley",
+      "alt": "Crowley",
+      "nombre": "Crowley"
+    },
+  
+    {
+      "temas": "Unico,Animal",
+      "descripcion":
+        "La poderosa baraja Crow's Magick Tarot te lleva a otro tiempo y lugar, donde planetas extraños y mundos empíreos se fusionan con vida silvestre, criaturas cibernéticas y espíritus geométricos.",
+      "altThmb": "Crow's Magick (Imagen en miniatura)",
+      "archivo": "crows-magick",
+      "alt": "Crow's Magick",
+      "nombre": "Crow's Magick"
+    },
+  
+    {
+      "temas": "Unico,Animal",
+      "descripcion":
+        "El misticismo, la profundidad y la inteligencia de los cuervos y los cuervos se celebran en la galardonada baraja Crow Tarot. Cada carta de este mazo fue cuidadosamente diseñada para ayudarte a canalizar la perspicacia de estos sabios animales.",
+      "altThmb": "Crow Tarot (Imagen en miniatura)",
+      "archivo": "crow",
+      "alt": "Crow Tarot",
+      "nombre": "Crow Tarot"
+    },
+  
+    {
+      "temas": "Hermoso,Amor,Fantasia",
+      "descripcion":
+        "La baraja Crystal Visions Tarot tiene un estilo de fantasía con hermosas imágenes de hadas y un esquema de colores vibrantes inspirado en las cuatro estaciones y los cuatro elementos.",
+      "altThmb": "Crystal Visions (Imagen en miniatura)",
+      "archivo": "crystal-visions",
+      "alt": "Crystal Visions",
+      "nombre": "Crystal Visions"
+    },
+  
+    {
+      "temas": "Unico,Moderno",
+      "descripcion":
+        "El Dark Exact Tarot representa los Arcanos Mayores como plantas, animales, objetos y símbolos alquímicos en lugar de figuras humanas. Los arcanos menores tienen símbolos de palo elementales y clásicos.",
+      "altThmb": "Dark Exact (Imagen en miniatura)",
+      "archivo": "dark-exact",
+      "alt": "Dark Exact",
+      "nombre": "Dark Exact"
+    },
+  
+    {
+      "temas": "Unico,Popular",
+      "descripcion":
+        "La baraja Deviant Moon Tarot está inspirada en los sueños de la infancia y presenta personajes con cara de luna creados mediante la manipulación de fotografías de lápidas del siglo XVIII. Las imágenes surrealistas de esta baraja, con fondos industrializados, hablan del tema de la dualidad y despiertan la imaginación de los lectores.",
+      "altThmb": "Deviant Moon (Imagen en miniatura)",
+      "archivo": "deviant-moon",
+      "alt": "Deviant Moon",
+      "nombre": "Deviant Moon"
+    },
+  
+    {
+      "temas": "Animal,Fantasia",
+      "descripcion":
+        "El fantástico artista Peter Pracownik ilustró la mística baraja Dragon Tarot con coloridas bestias inspiradas en leyendas de la mitología de dragones de muchas culturas diferentes durante muchos siglos.",
+      "altThmb": "Dragon (Imagen en miniatura)",
+      "archivo": "dragon",
+      "alt": "Dragon",
+      "nombre": "Dragon"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Vintage",
+      "descripcion": "Los personajes con estilo dan nueva vida a las escenas y símbolos del Tarot en esta exquisita baraja. La baraja Dreaming Way Tarot explora influencias numerológicas y elementales, y ofrece nuevas interpretaciones del Tarot.",
+      "altThmb": "Dreaming Way (Imagen en miniatura)",
+      "archivo": "dreaming-way",
+      "alt": "Dreaming Way",
+      "nombre": "Dreaming Way"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Vintage",
+      "descripcion":
+        "Los personajes con estilo dan nueva vida a las escenas y símbolos del Tarot en esta exquisita baraja. La baraja Dreaming Way Tarot explora influencias numerológicas y elementales, y ofrece nuevas interpretaciones del Tarot.",
+      "altThmb": "Dreamkeepers Tarot (Imagen en miniatura)",
+      "archivo": "the-dreamkeepers-tarot",
+      "alt": "Dreamkeepers Tarot",
+      "nombre": "Dreamkeepers Tarot"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Moderno",
+      "descripcion":
+        "Impresionantes imágenes en un estilo distintivo del arte del tatuaje adornan cada carta en la baraja Tattoo Tarot de Eight Coins. Diseñado por un auténtico artista del tatuaje, este colorido mazo contiene cuatro cartas adicionales para brindarle inspiración y conocimientos adicionales.",
+      "altThmb": "Eight Coins - Tattoo Tarot (Imagen en miniatura)",
+      "archivo": "eight-coins-tattoo",
+      "alt": "Eight Coins - Tattoo Tarot",
+      "nombre": "Eight Coins - Tattoo Tarot"
+    },
+  
+    {
+      "temas": "Vintage",
+      "descripcion":
+        "La baraja English Magic Tarot nos lleva al mundo vibrante pero a menudo oculto de la magia inglesa. Coloca las cartas en el tiempo colorido pero turbulento de la agitación, cuando las fuerzas arquetípicas estaban muy en juego. Hay giros únicos a las imágenes tradicionales, con acertijos, referencias y tradiciones dentro de este mazo dinámico.",
+      "altThmb": "English Magic Tarot (Imagen en miniatura)",
+      "archivo": "english-magic",
+      "alt": "English Magic Tarot",
+      "nombre": "English Magic Tarot"
+    },
+  
+    {
+      "temas": "Clasico,Inclusivo",
+      "descripcion":
+        "De origen y diseño español, la baraja Gran Tarot Esotérico presenta diseños toscos y, a veces, violentos que se inspiran libremente en el Tarot de Marsella, con títulos de cartas españoles.",
+      "altThmb": "Esoterico (Imagen en miniatura)",
+      "archivo": "esoterico",
+      "alt": "Esoterico",
+      "nombre": "Esoterico"
+    },
+  
+    {
+      "temas": "Hermoso,Vintage",
+      "descripcion":
+        "Con colores suaves y un estilo Art Nouveau distintivo, cada carta de la baraja Ethereal Visions Tarot está dibujada a mano para reflejar el viaje interior del artista. Este mazo incluye dos cartas adicionales de Arcanos Mayores para obtener información adicional.",
+      "altThmb": "Ethereal Visions (Imagen en miniatura)",
+      "archivo": "ethereal-visions",
+      "alt": "Ethereal Visions",
+      "nombre": "Ethereal Visions"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "De origen francés, la baraja Grand Etteilla Tarot presenta cartas con títulos en francés e inglés, e ilustraciones que van desde bastante primitivas hasta bellamente intrincadas.",
+      "altThmb": "Etteilla (Imagen en miniatura)",
+      "archivo": "etteilla",
+      "alt": "Etteilla",
+      "nombre": "Etteilla"
+    },
+  
+    {
+      "temas": "Unico,Fantasia",
+      "descripcion":
+        "El vibrante arte del Faerie Tarot combina fantasía y naturaleza con exquisito detalle, utilizando encantadores motivos inspirados en las cuatro estaciones. Diseños como estrellas, corazones, dragones y flores aportan magia a tus lecturas de Tarot.",
+      "altThmb": "Faerie Tarot (Imagen en miniatura)",
+      "archivo": "faerie-tarot",
+      "alt": "Faerie Tarot",
+      "nombre": "Faerie Tarot"
+    },
+  
+    {
+      "temas": "Animal,Fantasia",
+      "descripcion":
+        "La baraja Fantastical Creatures Tarot da vida a una colorida colección de seres místicos de los mundos de la mitología, el folclore y la leyenda.",
+      "altThmb": "Fantastical Creatures (Imagen en miniatura)",
+      "archivo": "fantastical-creatures",
+      "alt": "Fantastical Creatures",
+      "nombre": "Fantastical Creatures"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "Desde los mundos de la mitología, el folclore y la leyenda, Fantasical Creatures Tarot da vida a una colorida colección de seres místicos con poderes mágicos. Las tarjetas cuentan con descripciones vívidas e imágenes intrigantes.",
+      "altThmb": "Fantastical Tarot (Imagen en miniatura)",
+      "archivo": "fantastical",
+      "alt": "Fantastical Tarot",
+      "nombre": "Fantastical Tarot"
+    },
+  
+    {
+      "temas": "Hermoso",
+      "descripcion":
+        "La artista tailandesa Chatriya creó Fenestra Tarot con colores relajantes y el simbolismo tradicional del Tarot mezclado con elementos de su propia cultura e influencias de Egipto, Art Deco, mitología y manga japonés.",
+      "altThmb": "Fenestra (Imagen en miniatura)",
+      "archivo": "fenestra",
+      "alt": "Fenestra",
+      "nombre": "Fenestra"
+    },
+  
+    {
+      "temas": "Unico,Inclusivo",
+      "descripcion":
+        "La baraja Feng Shui Tarot combina elementos tradicionales del Tarot e ilustraciones llamativas con la antigua sabiduría china, la creencia espiritual y los principios del Feng Shui.",
+      "altThmb": "Feng Shui (Imagen en miniatura)",
+      "archivo": "feng-shui",
+      "alt": "Feng Shui",
+      "nombre": "Feng Shui"
+    },
+  
+    {
+      "temas": "Fantasia",
+      "descripcion":
+        "La artista Kessia Beverley-Smith creó la mística baraja Folklore Tarot utilizando acuarelas tradicionales combinadas con fotografías para retratar frondosos bosques llenos de diablillos, hadas, ninfas y enanos.",
+      "altThmb": "Forest Folklore (Imagen en miniatura)",
+      "archivo": "forest-folklore",
+      "alt": "Forest Folklore",
+      "nombre": "Forest Folklore"
+    },
+  
+    {
+      "temas": "Unico,Moderno,Fantasia",
+      "descripcion":
+        "Fradella Adventure Tarot presenta una colección única de personajes presentados originalmente en el e-zine Cyber ​​Age Adventures, con arte representado en estilo de cómic de fantasía.",
+      "altThmb": "Fradella (Imagen en miniatura)",
+      "archivo": "fradella",
+      "alt": "Fradella",
+      "nombre": "Fradella"
+    },
+  
+    {
+      "temas": "Femenino",
+      "descripcion":
+        "La baraja surrealista y ligeramente New Age Gendron Tarot está inspirada en la Gran Diosa arquetípica y sus compañeros animales, quienes brindan una guía espiritual y enriquecedora.",
+      "altThmb": "Gendron (Imagen en miniatura)",
+      "archivo": "gendron",
+      "alt": "Gendron",
+      "nombre": "Gendron"
+    },
+  
+    {
+      "temas": "Unico,Fantasia",
+      "descripcion":
+        "La baraja del Tarot Fantasmas y Espíritus tiene una matriz de seres etéreos que son parte del paisaje antropológico y una expresión relevante de nuestra humanidad.",
+      "altThmb": "Ghosts and Spirits (Imagen en miniatura)",
+      "archivo": "ghosts-spirits",
+      "alt": "Ghosts and Spirits",
+      "nombre": "Ghosts and Spirits"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "Basado en el Árbol de la Vida, gran parte de las imágenes audaces en el mazo de Gill Tarot se extraen de pasajes de la literatura religiosa clásica.",
+      "altThmb": "Gill (Imagen en miniatura)",
+      "archivo": "gill",
+      "alt": "Gill",
+      "nombre": "Gill"
+    },
+  
+    {
+      "temas": "Hermoso,Femenino,Popular",
+      "descripcion":
+        "La hermosa baraja Goddess Tarot utiliza historias e imágenes de diosas para actualizar el simbolismo tradicional del Tarot, abordando las necesidades contemporáneas de las mujeres a través de ilustraciones y detalles ornamentados.",
+      "altThmb": "Goddess (Imagen en miniatura)",
+      "archivo": "goddess",
+      "alt": "Goddess",
+      "nombre": "Goddess"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "Las imágenes simples de esta baraja están diseñadas para ser una versión Modernoa de una antigua tradición. Ilustrado a lo largo de cuatro meses, comenzó como un proyecto para ayudar al artista a conectarse con el Tarot en un nivel más profundo. Este proyecto ahora se conoce como la baraja Golden Thread Tarot y la aplicación complementaria.",
+      "altThmb": "Golden Thread Tarot (Imagen en miniatura)",
+      "archivo": "golden-thread",
+      "alt": "Golden Thread Tarot",
+      "nombre": "Golden Thread Tarot"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "El adorable Gummy Bear Tarot ha transformado a estas pegajosas criaturas alemanas en osos del Tarot que lanzan sus hechizos mágicos, empuñan sus varitas y se deleitan en llegar a las personas a través de imágenes traviesas.",
+      "altThmb": "Gummy Bear (Imagen en miniatura)",
+      "archivo": "gummybear",
+      "alt": "Gummy Bear",
+      "nombre": "Gummy Bear"
+    },
+  
+    {
+      "temas": "Inclusivo",
+      "descripcion":
+        "El Tarot Haindl se basa en el conocimiento de la antigua cultura nativa americana para crear una baraja que es un estudio colorido y penetrante sobre la humildad y la reverencia por la naturaleza.",
+      "altThmb": "Haindl (Imagen en miniatura)",
+      "archivo": "haindl",
+      "alt": "Haindl",
+      "nombre": "Haindl"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "Halloween Tarot es una baraja divertidamente espeluznante que actualiza las ilustraciones clásicas de Rider-Waite con imágenes navideñas en negro y naranja de calabazas, fantasmas, vampiros, esqueletos, murciélagos y calabazas.",
+      "altThmb": "Halloween (Imagen en miniatura)",
+      "archivo": "halloween",
+      "alt": "Halloween",
+      "nombre": "Halloween"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "El simbolismo del Tarot de Hanson Roberts sigue fielmente el mazo de Rider-Waite, reinventado por la obra de arte de Mary Hanson-Roberts, cuyos deliciosos dibujos detallados despiertan la imaginación para lecturas de tarot perspicaces.",
+      "altThmb": "Hanson Roberts (Imagen en miniatura)",
+      "archivo": "roberts",
+      "alt": "Hanson Roberts",
+      "nombre": "Hanson Roberts"
+    },
+  
+    {
+      "temas": "Unico,Moderno",
+      "descripcion":
+        "Las líneas audaces y los diseños detallados le dan al mazo Heart & Hands Tarot un aspecto único. Basado en los símbolos y significados clásicos del Tarot, este mazo en blanco y negro se inspiró en el viaje personal del artista.",
+      "altThmb": "Heart and Hands (Imagen en miniatura)",
+      "archivo": "heart-and-hands",
+      "alt": "Heart and Hands",
+      "nombre": "Heart and Hands"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "Herbal Tarot sigue las asignaciones generales del mazo Rider-Waite, pero cada carta representa y describe una hierba medicinal diferente basada en la intuición, los valores astrológicos y energéticos.",
+      "altThmb": "Herbal (Imagen en miniatura)",
+      "archivo": "herbal",
+      "alt": "Herbal",
+      "nombre": "Herbal"
+    },
+  
+    {
+      "temas": "Unico,Clasico",
+      "descripcion":
+        "La baraja Hermetic Tarot presenta los diseños esotéricos en blanco y negro de la sociedad secreta conocida como Golden Dawn, que enfatizan las influencias místicas, astrológicas y cabalísticas de la antigua orden.",
+      "altThmb": "Hermetic (Imagen en miniatura)",
+      "archivo": "hermetic",
+      "alt": "Hermetic",
+      "nombre": "Hermetic"
+    },
+  
+    {
+      "temas": "Inclusivo",
+      "descripcion":
+        "Ibis Tarot presenta figuras egipcias, símbolos y jeroglíficos con hermosos paisajes, y se basa en los diseños publicados en el libro Astrología práctica del Conde C. de Saint-Germain.",
+      "altThmb": "Ibis (Imagen en miniatura)",
+      "archivo": "ibis",
+      "alt": "Ibis",
+      "nombre": "Ibis"
+    },
+  
+    {
+      "temas": "Moderno",
+      "descripcion":
+        "Basado en el arte del artista parisino Nino Japaridze, el Tarot Japaridze utiliza el surrealismo, la naturaleza, la numerología y los elementos para llevarlo a una exploración audaz a través de la sabiduría del Tarot.",
+      "altThmb": "Japaridze (Imagen en miniatura)",
+      "archivo": "japaridze",
+      "alt": "Japaridze",
+      "nombre": "Japaridze"
+    },
+  
+    {
+      "temas": "Vintage",
+      "descripcion":
+        "Jolanda Tarot también se conoce como el Tarot de la bruja sueca, una reimpresión de una baraja esotérica con arte lineal y bordes morados diseñada por Jolanda den Tredjes, una bruja famosa en Suecia.",
+      "altThmb": "Jolanda (Imagen en miniatura)",
+      "archivo": "jolanda",
+      "alt": "Jolanda",
+      "nombre": "Jolanda"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "La baraja Karma Tarot presenta una estimulante combinación de color, movimiento y arte fantasmagórico. Las imágenes se basan en la vida en Christiana, una comunidad de artistas y músicos en Copenhague, Dinamarca.",
+      "altThmb": "Karma (Imagen en miniatura)",
+      "archivo": "karma",
+      "alt": "Karma",
+      "nombre": "Karma"
+    },
+  
+    {
+      "temas": "Hermoso,Vintage,Amor,Inclusivo",
+      "descripcion":
+        "El Tarot de Amorr's Path combina hermosas obras de arte, simbolismo de Tarot e historias de amor, y es ideal para usar en lecturas sobre amor, citas y relaciones.",
+      "altThmb": "Amorrs Path (Imagen en miniatura)",
+      "archivo": "lovers-path",
+      "alt": "Amorrs Path",
+      "nombre": "Amorrs Path"
+    },
+  
+    {
+      "temas": "Moderno,Inclusivo",
+      "descripcion":
+        "La baraja Luna Sol Tarot aporta energía fresca a sus lecturas con sus ilustraciones Modernoas, representación diversa y paleta de colores de ensueño. Proporcionando una mirada actualizada a las tradiciones clásicas del Tarot, este mazo es perfecto tanto para principiantes como para lectores experimentados.",
+      "altThmb": "Luna Sol (Imagen en miniatura)",
+      "archivo": "luna-sol",
+      "alt": "Luna Sol",
+      "nombre": "Luna Sol"
+    },
+  
+    {
+      "temas": "Unico,Moderno,Inclusivo",
+      "descripcion":
+        "La baraja Magic Manga Tarot presenta ilustraciones de estilo cómic japonés manga de una mezcla de épocas, que combinan imágenes lúdicas con seriedad gótica.",
+      "altThmb": "Magic Manga (Imagen en miniatura)",
+      "archivo": "magic-manga",
+      "alt": "Magic Manga",
+      "nombre": "Magic Manga"
+    },
+  
+    {
+      "temas": "Clasico,Popular",
+      "descripcion":
+        "La baraja del Tarot de Marsella es una reproducción auténtica del popular Tarot de Marsella. Los eruditos franceses han restaurado el Tarot de siglos de antigüedad con dibujos nítidos basados ​​en imágenes originales grabadas en madera.",
+      "altThmb": "Marseilles (Imagen en miniatura)",
+      "archivo": "marseilles",
+      "alt": "Marseilles",
+      "nombre": "Marseilles"
+    },
+  
+    {
+      "temas": "Inclusivo,Femenino,Popular",
+      "descripcion":
+        "Medicine Woman Tarot de la artista Carol Bridges enfatiza la armonía con la Madre Tierra, inspirándose en la moda de los nativos americanos y las imágenes positivas en colores pastel para inspirar una vida en equilibrio con la naturaleza.",
+      "altThmb": "Medicine Woman (Imagen en miniatura)",
+      "archivo": "medicine-woman",
+      "alt": "Medicine Woman",
+      "nombre": "Medicine Woman"
+    },
+  
+    {
+      "temas": "Animal,Clasico",
+      "descripcion":
+        "El Tarot medieval del gato celebra la gloria de los felinos con un estilo renacentista. Esta baraja ornamentada combina las ideologías y el arte clásico y contemporáneo en una baraja aristocrática con un toque humorístico.",
+      "altThmb": "Medieval Cat (Imagen en miniatura)",
+      "archivo": "medieval-cat",
+      "alt": "Medieval Cat",
+      "nombre": "Medieval Cat"
+    },
+  
+    {
+      "temas": "Hermoso,Clasico",
+      "descripcion":
+        "Scapini Tarot del artista italiano Luigi Scapini presenta lujosas pinturas que recrean la Italia del siglo XV en una baraja de Tarot con detalles dorados que presenta escenas completas de la vida europea del siglo XV.",
+      "altThmb": "Medieval Scapini (Imagen en miniatura)",
+      "archivo": "medieval-scapini",
+      "alt": "Medieval Scapini",
+      "nombre": "Medieval Scapini"
+    },
+  
+    {
+      "temas": "Unico,Inclusivo",
+      "descripcion":
+        "La baraja Melanated Clasico Tarot es una alternativa realista a la tradicional baraja Rider-Waite, creada en honor a la importancia del aprendizaje y la curación con herramientas espirituales que te representan a TI. Es imposible 'verte' a ti mismo usando herramientas de adivinación que te vuelven invisible. Las escenas dentro del Melanated Clasico Tarot siguen el modelo de la baraja original de Rider-Waite (ilustrada en 1909 por Pamela Colman Smith, una mujer birracial de color).",
+      "altThmb": "Melanated Clasico Tarot (Imagen en miniatura)",
+      "archivo": "melanated",
+      "alt": "Melanated Clasico Tarot",
+      "nombre": "Melanated Clasico Tarot"
+    },
+  
+    {
+      "temas": "Fantasia",
+      "descripcion":
+        "MerryDay Tarot es una fantástica baraja de Tarot inspirada en las imágenes de Rider-Waite, pero con un giro imaginativo, colorido y mágico que incluye dragones detallados, hermosos animales y elementos de la naturaleza.",
+      "altThmb": "Merry Day (Imagen en miniatura)",
+      "archivo": "merryday",
+      "alt": "Merry Day",
+      "nombre": "Merry Day"
+    },
+  
+    {
+      "temas": "Moderno",
+      "descripcion":
+        "Moderno Medieval Tarot combina un estilo contemporáneo con la Edad Media, presentando fotografías y arte generado por computadora para representar escenas medievales con un toque Modernoo.",
+      "altThmb": "Moderno Medieval (Imagen en miniatura)",
+      "archivo": "modern-medieval",
+      "alt": "Moderno Medieval",
+      "nombre": "Moderno Medieval"
+    },
+  
+    {
+      "temas": "Moderno,Inclusivo,Femenino,Popular",
+      "descripcion":
+        "La baraja Moderno Witch Tarot trae el antiguo arte del Tarot al presente. Con figuras coloridas y diversas adornadas con estilos y símbolos Modernoos, esta baraja exclusivamente femenina celebra tanto la tradición como la innovación.",
+      "altThmb": "Moderno Witch (Imagen en miniatura)",
+      "archivo": "modern-witch",
+      "alt": "Moderno Witch",
+      "nombre": "Moderno Witch"
+    },
+  
+    {
+      "temas": "Hermoso,Vintage,Clasico",
+      "descripcion":
+        "Las imágenes mágicas de la baraja Morgan-Greer Tarot se basan en el Rider-Waite Tarot y están diseñadas para crear una reacción emocional a través de escenas completas y expresivas en colores profundos y saturados.",
+      "altThmb": "Morgan-Greer (Imagen en miniatura)",
+      "archivo": "morgan-greer",
+      "alt": "Morgan-Greer",
+      "nombre": "Morgan-Greer"
+    },
+  
+    {
+      "temas": "Unico,Inclusivo,Femenino",
+      "descripcion":
+        "Motherpeace Tarot es una baraja feminista que se aparta de las imágenes tradicionales del Tarot al presentar solo unas pocas figuras masculinas. Adoptando el espíritu de la Diosa, esta baraja presenta cartas redondas y obras de arte primitivas con un significado menos en blanco y negro.",
+      "altThmb": "Motherpeace Tarot (Imagen en miniatura)",
+      "archivo": "motherpeace",
+      "alt": "Motherpeace Tarot",
+      "nombre": "Motherpeace Tarot"
+    },
+  
+    {
+      "temas": "Hermoso,Moderno",
+      "descripcion":
+        "El Mystic Mondays Tarot es una baraja Modernoa que brinda una perspectiva positiva sobre el Tarot, ofreciéndole un nuevo comienzo cualquier día de la semana.",
+      "altThmb": "Mystic Mondays (Imagen en miniatura)",
+      "archivo": "mystic-mondays",
+      "alt": "Mystic Mondays",
+      "nombre": "Mystic Mondays"
+    },
+  
+    {
+      "temas": "Inclusivo",
+      "descripcion":
+        "El Napo Tarot es obra de dos argentinos: la autora Betty López y el artista Napo. Su baraja se basa en el mito, la cultura y la historia de Argentina y refleja la atmósfera vibrante y colorida de este país.",
+      "altThmb": "Napo Tarot (Imagen en miniatura)",
+      "archivo": "napo",
+      "alt": "Napo Tarot",
+      "nombre": "Napo Tarot"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "New Century Tarot es una reelaboración brillante de la baraja de estilo Rider-Waite, con colores fuertes e imágenes llamativas del artista y arquitecto alemán Rolf Eichelman, quien comenzó a desarrollar estas cartas en 1989.",
+      "altThmb": "New Century (Imagen en miniatura)",
+      "archivo": "new-century",
+      "alt": "New Century",
+      "nombre": "New Century"
+    },
+  
+    {
+      "temas": "Inclusivo",
+      "descripcion":
+        "Utilizando símbolos de la mitología y la geometría sagrada, la baraja New Chapter Tarot refleja el espectro de emociones, experiencias e incógnitas que acompañan a los grandes cambios en la vida. Las ricas imágenes en acuarela de cada tarjeta representan la esperanza y el amanecer de una nueva etapa.",
+      "altThmb": "New Chapter (Imagen en miniatura)",
+      "archivo": "new-chapter",
+      "alt": "New Chapter",
+      "nombre": "New Chapter"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "Las imágenes detalladas de la baraja del Tarot en inglés antiguo retratan escenas de la vida campesina y las tradiciones religiosas de la Inglaterra medieval. Sus bordes heráldicos ricamente estampados y sus esquemas de colores distintivos permiten que su imaginación explore esta era de antaño.",
+      "altThmb": "Old English (Imagen en miniatura)",
+      "archivo": "old-english",
+      "alt": "Old English",
+      "nombre": "Old English"
+    },
+  
+    {
+      "temas": "Hermoso",
+      "descripcion":
+        "Tarot of the Old Path fue creado por líderes de la artesanía Wiccan y está dirigido a lectores de Tarot pagano. Presenta imágenes fáciles de entender extraídas de muchos puntos de vista diversos.",
+      "altThmb": "Old Path (Imagen en miniatura)",
+      "archivo": "old-path",
+      "alt": "Old Path",
+      "nombre": "Old Path"
+    },
+  
+    {
+      "temas": "Unico,Moderno",
+      "descripcion":
+        "El Omegaland Tarot tiene lugar en un mundo distópico donde la sociedad se ha puesto de rodillas, pero la esperanza brilla en el arte y las interpretaciones de esta intensa baraja de Tarot.",
+      "altThmb": "Omegaland (Imagen en miniatura)",
+      "archivo": "omegaland",
+      "alt": "Omegaland",
+      "nombre": "Omegaland"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "La baraja One World Tarot es una fusión de diseño tradicional y ultraModernoo, con imágenes que están vinculadas a la sabiduría de la Astrología, el Tarot y la Numerología.",
+      "altThmb": "One World Tarot (Imagen en miniatura)",
+      "archivo": "one-world",
+      "alt": "One World Tarot",
+      "nombre": "One World Tarot"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "El mazo de Oswald Wirth Tarot fue creado por el famoso ocultista y cabalista suizo, y presenta vibrantes cartas de Arcanos Mayores en colores brillantes que contienen letras hebreas y números romanos.",
+      "altThmb": "Oswald Wirth (Imagen en miniatura)",
+      "archivo": "wirth",
+      "alt": "Oswald Wirth",
+      "nombre": "Oswald Wirth"
+    },
+  
+    {
+      "temas": "Hermoso,Fantasia",
+      "descripcion":
+        "Cada carta dentro de la baraja de Paulina Tarot contiene un maravilloso mundo de fantasía, repleto de hadas, bosques, plantas y animales, y símbolos únicos en el fondo.",
+      "altThmb": "Paulina (Imagen en miniatura)",
+      "archivo": "paulina",
+      "alt": "Paulina",
+      "nombre": "Paulina"
+    },
+  
+    {
+      "temas": "Hermoso,Fantasia",
+      "descripcion":
+        "Un mundo de sueños y magia despierta en la baraja Phantasma Tarot. En cada carta, los seres místicos actúan como almas gemelas para ayudar a guiar su viaje e inspirar su imaginación.",
+      "altThmb": "Phantasma (Imagen en miniatura)",
+      "archivo": "phantasma",
+      "alt": "Phantasma",
+      "nombre": "Phantasma"
+    },
+  
+    {
+      "temas": "Unico,Moderno",
+      "descripcion":
+        "El caprichoso Tarot fantasmagórico de Graham Cameron presenta ilustraciones brillantes y extravagantes que invitan al lector a seguir a The Fool mientras presenta a los jugadores en el desempeño de la vida.",
+      "altThmb": "Phantasmagoric (Imagen en miniatura)",
+      "archivo": "phantasmagoric",
+      "alt": "Phantasmagoric",
+      "nombre": "Phantasmagoric"
+    },
+  
+    {
+      "temas": "Principiantes,Clasico",
+      "descripcion":
+        "La colorida baraja Quick and Easy Tarot de 78 cartas se basa en la baraja Universal Waite Tarot. Tiene tanto los significados adivinatorios como los significados invertidos impresos directamente en las cartas, por lo que no es necesario consultar un libro.",
+      "altThmb": "Quick and Easy (Imagen en miniatura)",
+      "archivo": "quick-easy",
+      "alt": "Quick and Easy",
+      "nombre": "Quick and Easy"
+    },
+  
+    {
+      "temas": "Hermoso,Clasico",
+      "descripcion":
+        "El Renaissance Tarot de Brian Williams conecta la cultura renacentista europea y la mitología clásica griega y romana, representando bellamente a los dioses del Olimpo y otras deidades griegas y romanas.",
+      "altThmb": "Renaissance (Imagen en miniatura)",
+      "archivo": "renaissance",
+      "alt": "Renaissance",
+      "nombre": "Renaissance"
+    },
+  
+    {
+      "temas": "Principiantes,Clasico,Popular",
+      "descripcion":
+        "El clásico Rider-Waite Tarot es la baraja de Tarot más conocida. Las vibrantes cartas, con escenas completas con figuras y símbolos, fueron dibujadas en 1909 por Pamela Colman Smith bajo la dirección de Arthur Edward Waite.",
+      "altThmb": "Rider Waite (Imagen en miniatura)",
+      "archivo": "rider",
+      "alt": "Rider Waite",
+      "nombre": "Rider Waite"
+    },
+  
+    {
+      "temas": "Inclusivo",
+      "descripcion":
+        "El entusiasta del Tarot tailandés Sungkom Horharin creó la impresionante y estilizada obra de arte del Royal Thai Tarot con la ayuda de un artista tailandés cuyas bellas imágenes honran el arte, la cultura, la historia y la religión de Tailandia.",
+      "altThmb": "Royal Thai (Imagen en miniatura)",
+      "archivo": "royal-thai",
+      "alt": "Royal Thai",
+      "nombre": "Royal Thai"
+    },
+  
+    {
+      "temas": "Hermoso,Inclusivo",
+      "descripcion":
+        "La cultura rusa, los cuentos populares y las leyendas históricas cobran vida con la baraja del Tarot ruso, en la que cada imagen elaborada está enmarcada dentro de un óvalo, que recuerda a los huevos de Pascua imperiales de Fabergé.",
+      "altThmb": "Russian (Imagen en miniatura)",
+      "archivo": "russian",
+      "alt": "Russian",
+      "nombre": "Russian"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "La baraja espiritual del Tarot Arte Sagrado combina la profunda imaginería del Tarot tradicional con la estética del arte clásico, basándose en un rico legado de iconografía religiosa.",
+      "altThmb": "Sacred Art (Imagen en miniatura)",
+      "archivo": "sacred-art",
+      "alt": "Sacred Art",
+      "nombre": "Sacred Art"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "La colorida baraja del Tarot de la Rosa Sagrada se basa en la antigua cábala, el Árbol de la Vida y la rosa simbólica del mundo occidental. Su imaginería recuerda a las vidrieras medievales y al arte bizantino.",
+      "altThmb": "Sacred Rose (Imagen en miniatura)",
+      "archivo": "sacred-rose",
+      "alt": "Sacred Rose",
+      "nombre": "Sacred Rose"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "El Tarot Universal de Salvador Dalí es una exquisita baraja de Tarot para historiadores, amantes del arte y coleccionistas, que presenta cartas surrealistas de gran tamaño con bordes dorados y títulos en inglés y español.",
+      "altThmb": "Salvador Dali (Imagen en miniatura)",
+      "archivo": "dali",
+      "alt": "Salvador Dali",
+      "nombre": "Salvador Dali"
+    },
+  
+    {
+      "temas": "Inclusivo",
+      "descripcion":
+        "La baraja Santa Fe Tarot, creada por las hermanas Holly Huber y Tracy LeCocq, utiliza poderosas imágenes de los nativos americanos inspiradas en las pinturas de arena de los navajos, basadas en verdaderos mitos y símbolos de la tribu del suroeste.",
+      "altThmb": "Santa Fe (Imagen en miniatura)",
+      "archivo": "santa-fe",
+      "alt": "Santa Fe",
+      "nombre": "Santa Fe"
+    },
+  
+    {
+      "temas": "Unico,Principiantes",
+      "descripcion":
+        "Ideal tanto para principiantes como para lectores experimentados, el Tarot de la Simplicidad elimina los detalles para llegar al simbolismo más importante de cada carta. Cada diseño en acuarela también tiene palabras clave impresas que lo ayudan a aprender su significado.",
+      "altThmb": "Simplicity (Imagen en miniatura)",
+      "archivo": "simplicity",
+      "alt": "Simplicity",
+      "nombre": "Simplicity"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "Esta fiel reproducción de la baraja Rider-Waite Tarot original, ilustrada por Pamela Colman Smith en 1909, presenta la obra de arte tradicional de Rider-Waite en los colores originales elegidos por Smith.",
+      "altThmb": "Smith Waite Centennial (Imagen en miniatura)",
+      "archivo": "smith-waite",
+      "alt": "Smith Waite Centennial",
+      "nombre": "Smith Waite Centennial"
+    },
+  
+    {
+      "temas": "Vintage",
+      "descripcion":
+        "La baraja del Tarot Espiral de Kay Steventon incorpora diversas imágenes míticas, incluidas las antiguas celta, romana y griega, para transmitir los misterios en espiral del subconsciente.",
+      "altThmb": "Spiral (Imagen en miniatura)",
+      "archivo": "spiral",
+      "alt": "Spiral",
+      "nombre": "Spiral"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Animal",
+      "descripcion":
+        "El Spiritsong Tarot guía tu viaje personal utilizando el poder simbólico de los animales. Cada uno de los 78 animales en esta baraja de Tarot actúa como un chamán, ayudándote a conectarte con tu mayor potencial.",
+      "altThmb": "Spiritsong (Imagen en miniatura)",
+      "archivo": "spiritsong",
+      "alt": "Spiritsong",
+      "nombre": "Spiritsong"
+    },
+  
+    {
+      "temas": "Clasico,Inclusivo",
+      "descripcion":
+        "Stairs of Gold Tarot es una intrincada baraja de Tarot italiana ilustrada por Giorgio Tavaglione. Cada lujosa carta de la baraja presenta figuras elaboradas y bordes dorados, con títulos caligrafiados en italiano e inglés.",
+      "altThmb": "Stairs (Imagen en miniatura)",
+      "archivo": "stairs",
+      "alt": "Stairs",
+      "nombre": "Stairs"
+    },
+  
+    {
+      "temas": "Vintage",
+      "descripcion":
+        "Ilustrado por Giorgio Tavaglione, este mazo (también llamado Tarot de las estrellas, o Il Tarocchi delle Stelle en italiano) se basa en las artes decorativas del siglo XIX al tiempo que incorpora símbolos hebreos, astrológicos y alquímicos. Cada carta en los Arcanos Menores está etiquetada con una palabra clave para sugerir su significado.",
+      "altThmb": "Stars Tarot (Imagen en miniatura)",
+      "archivo": "stars",
+      "alt": "Stars Tarot",
+      "nombre": "Stars Tarot"
+    },
+  
+    {
+      "temas": "Principiantes,Clasico",
+      "descripcion":
+        "La baraja Starter Tarot es perfecta para principiantes, con ilustraciones muy simples al estilo de grabados en madera antiguos basados ​​en motivos clásicos, y los significados regulares e inversos impresos en cada carta.",
+      "altThmb": "Starter (Imagen en miniatura)",
+      "archivo": "starter",
+      "alt": "Starter",
+      "nombre": "Starter"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Moderno,Inclusivo",
+      "descripcion":
+        "La baraja del Tarot del Sol y la Luna incorpora de forma lúdica la mitología y la astrología, lo que aporta una interpretación única al Tarot tradicional que es a la vez perspicaz y accesible.",
+      "altThmb": "Sun and Moon (Imagen en miniatura)",
+      "archivo": "sun-moon",
+      "alt": "Sun and Moon",
+      "nombre": "Sun and Moon"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "La baraja 1JJ Swiss Tarot es una variación de la baraja clásica de Marsella, con títulos en francés y reimpresiones de imágenes originales grabadas en madera que representan figuras en negro, blanco y de colores primarios con trajes del siglo XIX.",
+      "altThmb": "Swiss (1JJ) (Imagen en miniatura)",
+      "archivo": "1jj-swiss",
+      "alt": "Swiss (1JJ)",
+      "nombre": "Swiss (1JJ)"
+    },
+  
+    {
+      "temas": "Unico,Femenino",
+      "descripcion":
+        "La baraja Tapestry Tarot de la artista holandesa Yvonne Jensen presenta imágenes inspiradas en la diosa egipcia Hathor, patrona de las mujeres, e ilustradas con retratos creados con tela, cuerda, pinturas al óleo y objetos de metal.",
+      "altThmb": "Tapestry (Imagen en miniatura)",
+      "archivo": "tapestry",
+      "alt": "Tapestry",
+      "nombre": "Tapestry"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "Los colores intensos y los atrevidos diseños Art Deco le dan al Tarot Decoratif su estilo característico. Esta lujosa baraja de Tarot honra las tradiciones clásicas del Tarot de Marsella mientras las trae a la era Modernoa.",
+      "altThmb": "Tarot Decoratif (Imagen en miniatura)",
+      "archivo": "tarot-decoratif",
+      "alt": "Tarot Decoratif",
+      "nombre": "Tarot Decoratif"
+    },
+  
+    {
+      "temas": "Hermoso,Fantasia,Popular",
+      "descripcion":
+        "La baraja Tarot Grand Luxe trae una sensación de opulencia a lo cotidiano. Creado con una técnica de arte digital que requiere mucha mano de obra, cada carta de esta colorida baraja de Tarot irradia simbolismo y significado.",
+      "altThmb": "Tarot Grand Luxe (Imagen en miniatura)",
+      "archivo": "tarot-grand-luxe",
+      "alt": "Tarot Grand Luxe",
+      "nombre": "Tarot Grand Luxe"
+    },
+  
+    {
+      "temas": "Unico,Fantasia",
+      "descripcion":
+        "La baraja Tarot Nuage está ambientada en un pueblo mítico y presenta a las criaturas fantásticas, personajes y semidioses que habitan este lugar imaginario. Basado principalmente en el clásico Tarot de Marsella, este mazo aporta un poco de travesura y magia a cualquier lectura.",
+      "altThmb": "Tarot Nuages (Imagen en miniatura)",
+      "archivo": "tarot-nuages",
+      "alt": "Tarot Nuages",
+      "nombre": "Tarot Nuages"
+    },
+  
+    {
+      "temas": "Hermoso,Fantasia",
+      "descripcion":
+        "Tarot of a Moon Garden es una baraja luminosa que entrelaza el simbolismo tradicional del tarot, la magia elemental y las fases de la luna. Sus magníficas imágenes representan alas de libélulas, mariposas, ángeles y hadas.",
+      "altThmb": "Tarot of a Moon Garden (Imagen en miniatura)",
+      "archivo": "tarot-moon-garden",
+      "alt": "Tarot of a Moon Garden",
+      "nombre": "Tarot of a Moon Garden"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Fantasia",
+      "descripcion":
+        "El vívido mazo de Tarot of Dreams te lleva a un fascinante viaje de autodescubrimiento. Profundamente conectado con la astrología y el Árbol de la vida, las imágenes únicas de esta baraja lo guían a través de un profundo mundo de emociones, elecciones y pensamientos.",
+      "altThmb": "Tarot of Dreams (Imagen en miniatura)",
+      "archivo": "tarot-of-dreams",
+      "alt": "Tarot of Dreams",
+      "nombre": "Tarot of Dreams"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Femenino,Fantasia",
+      "descripcion":
+        "Las exuberantes imágenes del Tarot de Mystical Moments te transportan a un mundo surrealista de belleza e imaginación. Esta exclusiva baraja de Tarot de 83 cartas tiene sus raíces en la energía femenina e incluye cinco cartas adicionales: versiones femeninas de El Emperador y los cuatro Reyes para usar si lo deseas.",
+      "altThmb": "Tarot of Mystical Moments (Imagen en miniatura)",
+      "archivo": "tarot-of-mystical-moments",
+      "alt": "Tarot of Mystical Moments",
+      "nombre": "Tarot of Mystical Moments"
+    },
+  
+    {
+      "temas": "Hermoso",
+      "descripcion":
+        "Tarot of the Golden Wheel te sumerge en los colores, las historias y el estilo de la cultura eslava y los cuentos de hadas rusos. En esta baraja vibrante se repiten imágenes de la Rueda Dorada, un poderoso símbolo del karma, el equilibrio y los ciclos infinitos de la naturaleza.",
+      "altThmb": "Tarot of the Golden Wheel (Imagen en miniatura)",
+      "archivo": "tarot-of-the-golden-wheel",
+      "alt": "Tarot of the Golden Wheel",
+      "nombre": "Tarot of the Golden Wheel"
+    },
+  
+    {
+      "temas": "Unico",
+      "descripcion":
+        "Tarot of the Spirit es una baraja magistral con imágenes coloridas que estimulan la mente a un nivel superior de conciencia, y la edición del 20.° aniversario incluye una superposición de película clara del Árbol de la vida.",
+      "altThmb": "Tarot of the Spirit (Imagen en miniatura)",
+      "archivo": "tarot-spirit",
+      "alt": "Tarot of the Spirit",
+      "nombre": "Tarot of the Spirit"
+    },
+  
+    {
+      "temas": "Unico,Popular",
+      "descripcion":
+        "Tarot of the Witches es una baraja popular hecha en estilo surrealista, con cartas que representan fantasías oníricas con colores llamativos y pinturas extravagantes.",
+      "altThmb": "Tarot of the Witches (Imagen en miniatura)",
+      "archivo": "witches",
+      "alt": "Tarot of the Witches",
+      "nombre": "Tarot of the Witches"
+    },
+  
+    {
+      "temas": "Hermoso",
+      "descripcion":
+        "David Palladini, creador de la baraja Aquarian Tarot más vendida, creó su baraja Palladini para combinar elementos del arte medieval, egipcio, renacentista y Modernoo en un estilo original. Incluye la explicación detallada de Susan Hansson de los símbolos, correspondencias y tiradas del tarot.",
+      "altThmb": "The New Palladini Tarot (Imagen en miniatura)",
+      "archivo": "new-palladini-tarot",
+      "alt": "The New Palladini Tarot",
+      "nombre": "The New Palladini Tarot"
+    },
+  
+    {
+      "temas": "Inclusivo",
+      "descripcion":
+        "La baraja Ukiyoe Tarot de Koji Furuta es una adaptación japonesa de las antiguas imágenes de Marsella, que presenta el estilo de arte Ukiyoe o mundo flotante que se originó a mediados del siglo XVII en Japón.",
+      "altThmb": "Ukiyoe (Imagen en miniatura)",
+      "archivo": "ukiyoe",
+      "alt": "Ukiyoe",
+      "nombre": "Ukiyoe"
+    },
+  
+    {
+      "temas": "Hermoso,Principiantes,Clasico,Popular",
+      "descripcion":
+        "La serena baraja Universal Waite Tarot es un complemento relajante y atractivo para la tradicional baraja Rider-Waite, con hermosos dibujos de Pamela Colman Smith recoloreados por Mary Hanson-Roberts.",
+      "altThmb": "Universal Waite (Imagen en miniatura)",
+      "archivo": "universal-waite",
+      "alt": "Universal Waite",
+      "nombre": "Universal Waite"
+    },
+  
+    {
+      "temas": "Unico,Fantasia",
+      "descripcion":
+        "Vampire Tarot ofrece formidables vistas a un mundo de oscuridad envuelto en misterio y belleza. Los mitos y leyendas del inframundo diabólico se interpretan a través de pinturas exquisitamente detalladas.",
+      "altThmb": "Vampire Tarot (Imagen en miniatura)",
+      "archivo": "vampire",
+      "alt": "Vampire Tarot",
+      "nombre": "Vampire Tarot"
+    },
+  
+    {
+      "temas": "Unico,Moderno,Femenino",
+      "descripcion":
+        "Inspirándose en la cultura pop, los personajes atrevidos pero sabios de Vanessa Tarot reinterpretan en broma los roles femeninos tradicionales mientras comparten todos sus secretos arcanos.",
+      "altThmb": "Vanessa (Imagen en miniatura)",
+      "archivo": "vanessa",
+      "alt": "Vanessa",
+      "nombre": "Vanessa"
+    },
+  
+    {
+      "temas": "Clasico",
+      "descripcion":
+        "El Tarot Visconti-Sforza es una reproducción de una baraja del siglo XV, una de las barajas de Tarot más antiguas, que presenta escenas medievales auténticas e inquietantemente hermosas sin texto.",
+      "altThmb": "Visconti-Sforza (Imagen en miniatura)",
+      "archivo": "visconti",
+      "alt": "Visconti-Sforza",
+      "nombre": "Visconti-Sforza"
+    },
+  
+    {
+      "temas": "Unico,Fantasia",
+      "descripcion":
+        "Whimsical Tarot es una baraja encantadora que extrae su inspiración y sabiduría de los cuentos de hadas clásicos, los cuentos populares, las fábulas y los mitos, y presenta escenas pictóricas completas adecuadas para niños y adultos.",
+      "altThmb": "Whimsical (Imagen en miniatura)",
+      "archivo": "whimsical",
+      "alt": "Whimsical",
+      "nombre": "Whimsical"
+    },
+  
+    {
+      "temas": "Unico,Hermoso,Moderno,Animal,Popular",
+      "descripcion":
+        "El reino de los espíritus se mezcla con el mundo humano en la cautivadora baraja White Numen Tarot. Fuertes figuras y animales sagrados, conocidos como numen, están entretejidos en las ilustraciones de las cartas para reconectar tu intuición con la energía del mundo natural.",
+      "altThmb": "White Numen (Imagen en miniatura)",
+      "archivo": "white-numen",
+      "alt": "White Numen",
+      "nombre": "White Numen"
+    },
+  
+    {
+      "temas": "Unico,Fantasia",
+      "descripcion":
+        "Winged Spirit Tarot retrata la belleza y el misterio de los ángeles y otros espíritus alados, basado en el concepto atemporal de que los ángeles son un puente entre lo conocido y lo desconocido.",
+      "altThmb": "Winged Spirit Tarot (Imagen en miniatura)",
+      "archivo": "winged-spirit",
+      "alt": "Winged Spirit Tarot",
+      "nombre": "Winged Spirit Tarot"
+    },
+  
+    {
+      "temas": "Hermoso,Vintage",
+      "descripcion":
+        "La baraja Zerner-Farber Tarot presenta ilustraciones reelaboradas de la baraja Enchanted Tarot, utilizando un simbolismo ingenioso y colores basados ​​en los tapices de tela galardonados de Amy Zerner.",
+      "altThmb": "Zerner Farber Tarot (Imagen en miniatura)",
+      "archivo": "zerner-farber",
+      "alt": "Zerner Farber Tarot",
+      "nombre": "Zerner Farber Tarot"
+    }
+  ]

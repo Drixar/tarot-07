@@ -1,0 +1,101 @@
+/*********************************/
+/************FOOTER***************/
+/*********************************/
+footer {
+  .pie{
+    width: 100%;
+  }
+  padding: 0;
+  background-color: map-get($colores, frente);
+  background: linear-gradient(
+      90deg,
+      map-get($colores, sombra),
+      map-get($colores, sombra)
+    ),
+    url(../images/2.jpg) no-repeat center center fixed;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-top: 1px solid map-get($colores, principal-1);
+  border-bottom: 1px solid map-get($colores, principal-1);
+
+  h3 {
+    font-weight: 300;
+    line-height: 2.5rem;
+    color: map-get($colores, frente);
+    background-color: transparent;
+    text-decoration: underline;
+    text-decoration-color: map-get($colores, principal-1);
+  }
+
+  p {
+    color: map-get($colores, frente);
+  }
+
+  ul {
+    padding: 0;
+    margin: 0.5rem 0;
+
+    li {
+      list-style: none;
+      line-height: 2.25rem;
+
+      i {
+        font-weight: 300;
+        padding: 0.35rem;
+        display: inline-block;
+        color: map-get($colores, frente);
+        width: 2rem;
+        height: 2rem;
+        line-height: 2rem;
+        text-align: center;
+        text-justify: distribute;
+        border-radius: 50%;
+        border: 0.1rem solid map-get($colores, frente);
+        transition: all 0.5s ease;
+      }
+      a,
+      p {
+        color: map-get($colores, frente);
+        text-decoration: none;
+        padding: 0.25rem;
+        font-weight: 300;
+        margin: 0;
+      }
+      &:hover {
+        i {
+          border: 0.1rem solid map-get($colores, principal-1);
+          text-shadow: 0 0 15px map-get($colores, principal-1);
+          color: map-get($colores, principal-1);
+          transition: all 0.5s ease;
+        }
+        a,
+        p {
+          text-shadow: 0 0 15px map-get($colores, principal-1);
+          color: map-get($colores, principal-1);
+        }
+      }
+    }
+  }
+
+  .pie__priv {
+    text-align: justify;
+    p {
+      margin: 0.5rem 0;
+      font-weight: 300;
+      font-size: .75rem;
+    }
+  }
+
+  .pie__copyright {
+    text-align: center;
+    border-top: 1px solid map-get($colores, principal-1);
+    width: 100%;
+max-width: 100%;
+
+    p {
+      margin-bottom: 0 !important;
+    }
+  }
+}

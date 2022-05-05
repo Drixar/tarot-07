@@ -1,0 +1,154 @@
+/*********************************/
+/****FORMULARIO DE CONTACTO ******/
+/*********************************/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "roboto";
+  }
+  
+  .container {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1.5em;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-wrapper {
+    box-shadow: 0 0 20px 0 map-get($colores, fondo);
+  }
+  
+  .contact-wrapper > * {
+    padding: 1em;
+  }
+  
+  .contact-form {
+    background: map-get($colores, fondo);
+  
+    form {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      label {
+        display: block;
+        color: map-get($colores, frente);
+        font-size: .75rem;
+      }
+      p {
+        margin: 0;
+        padding: 1em;
+      }
+      .block {
+        grid-column: 1 / 3;
+      }
+      input,
+      textarea {
+        width: 100%;
+        padding: 0.7em;
+        border: none;
+        background: none;
+        outline: 0;
+        color: map-get($colores, frente);
+        border-bottom: 1px solid map-get($colores, principal-1);
+      }
+      button {
+        background: map-get($colores, principal-1);
+        color: map-get($colores, frente);
+        font-size: 1.25rem;
+        font-weight: 300;
+        border: 0;
+        width: 100%;
+        text-transform: uppercase;
+        padding: 1em;
+        &:hover,
+        &:focus {
+          background: map-get($colores, principal-2);
+          color: map-get($colores, frente);
+          transition: background-color 1s ease-out;
+          outline: 0;
+        }
+      }
+    }
+  }
+  
+  .gracias-form{
+    background: map-get($colores, fondo);
+    display: flex;
+
+    h4 {
+      font-size: 2rem;
+      color: map-get($colores, frente);
+      font-weight: 300;
+      text-align: center;
+    }
+    button {
+      background: map-get($colores, principal-1);
+      color: map-get($colores, frente);
+      font-size: 1.25rem;
+      font-weight: 300;
+      margin-top: 3rem;
+      width: 100%;
+      border: 0;
+      text-transform: uppercase;
+      padding: 1rem;
+      top: 100%;
+      &:hover,
+      &:focus {
+        background: map-get($colores, principal-2);
+        color: map-get($colores, frente);
+        transition: background-color 1s ease-out;
+        outline: 0;
+      }
+    }
+  }
+  /* CONTACT INFO */
+  .contact-info {
+    background:map-get($colores, fondo);
+    color: map-get($colores, frente);
+    h4,
+    ul,
+    p {
+      text-align: center;
+      margin: 0 0 1rem 0;
+      i {
+        @include icon_display(frente);
+        margin-bottom: .5rem;
+      }
+    }
+
+  }
+  
+  /* LARGE SIZE */
+  @media (min-width: 768px) {
+  
+    .contact-wrapper {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      .contact-form {
+        background: map-get($colores, fondo);
+      
+        form {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          label {
+            font-size: 1.25rem;
+          }
+        }
+      }
+    }
+    .contact-wrapper > * {
+      padding: 2em;
+    }
+    .contact-info h4,
+    .contact-info ul,
+    .contact-info p {
+      text-align: left;
+    }
+  }
+  

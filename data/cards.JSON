@@ -1,0 +1,860 @@
+[
+    {
+      "id": "00",
+      "posicion": true,
+      "nombre": "El Loco",
+      "descVertical":
+        "El Loco sugiere un acto de fe y un deseo de explorar lo desconocido con una mente de principiante. El Loco tiene una confianza básica en que las cosas saldrán bien al final, pero aún no ha adquirido la capacidad de navegar hábilmente a través de los asuntos prácticos de la vida cotidiana. Está comenzando un nuevo y emocionante viaje en el que encontrará maravillosas aventuras y buscará el crecimiento espiritual. Cuando esta tarjeta aparece en una lectura, es importante mantener su ingenio sobre ti mientras tomas riesgos y exploras lo desconocido. Al mismo tiempo, esta carta te advierte que evites el idealismo tonto y que no emprendas proyectos mundanos a menos que estés bien preparado para manejar cualquier aspecto pragmático.",
+      "descInvertida":
+        "En algún momento de la infancia, la mayoría de los niños escuchan a sus padres protestar: “Si todos tus amigos saltaran de un puente, ¿tú también lo harías?”. Cuando se invierte, el Loco advierte contra la planificación poco realista, la ingenuidad, la credulidad, la irresponsabilidad, la inmadurez, la acción prematura y la asunción de riesgos insensatos. El Loco invertido muestra un juicio pobre y una falta de confianza básica. Asegúrese de mirar antes de saltar o puede salir a medias en una empresa sin sentido. Considere las consecuencias antes de involucrarse en un comportamiento impulsivo o arriesgado. Evite especialmente el uso excesivo de drogas o alcohol.",
+      "imgVertical": "00_el_loco_0.jpg",
+      "imgInvertida": "00_el_loco_1.jpg"
+    },
+    {
+      "id": "01",
+      "posicion": true,
+      "nombre": "El Mago",
+      "descVertical":
+        "El Mago simboliza a una persona de gran fuerza de voluntad que ha dominado el conocimiento y las habilidades necesarias para lograr sus objetivos. Como se muestra en Llewellyn's Tarot clásico, el Mago puede acceder al cosmos arriba ya la tierra abajo mientras hace malabarismos con los cuatro elementos para manifestar sus deseos. Regido por el planeta Mercurio, el Mago es un comunicador dotado de un intenso enfoque mental que puede traducir ideas en acciones efectivas. Los temas relacionados con el Mago tienen que ver con dirigir la voluntad y enfocar la conciencia para manipular la realidad física.",
+      "descInvertida":
+        "Cuando se invierte, el Mago puede estar usando su fuerza de voluntad, conocimiento y habilidades para propósitos menos que honorables. Un Mago poco digno puede estar involucrado en el engaño, la manipulación o el mal uso del poder. Puede tener poca voluntad o falta de confianza y, por lo tanto, no puede usar sus habilidades de comunicación de manera productiva. Cuando el Mago aparece al revés en una lectura, es aconsejable explorar lo que le impide mantener el enfoque mental que le permitirá actuar como un mago en su vida.",
+      "imgVertical": "01_el_mago_0.jpg",
+      "imgInvertida": "01_el_mago_1.jpg"
+    },
+    {
+      "id": "02",
+      "posicion": true,
+      "nombre": "La Sacerdotisa",
+      "descVertical":
+        "La Suma Sacerdotisa representa la intuición femenina y la sensibilidad empática. Ella te da acceso al conocimiento oculto (simbolizado por el cuerpo de agua en la tarjeta) y fomenta el juicio equilibrado a través de la conciencia intuitiva. Ahora es el momento de aquietar tu mente y abrirte a la sabiduría interior que reside en tu interior. Presta especial atención a tus sueños y corazonadas intuitivas. De esta manera, puede obtener acceso a algo no revelado o que aún no se conoce sobre sus planes futuros. En palabras de Einstein: “Pero no existe un camino lógico para el descubrimiento de estas leyes elementales. Sólo existe el camino de la intuición, que es ayudado por un sentimiento del orden que yace detrás de la apariencia, y esto desarrolla con la experiencia”",
+      "descInvertida":
+        "Cuando se invierte, la Suma Sacerdotisa advierte que la información importante puede estar oculta u oculta de la vista. Tal vez te sientas bloqueado de alguna manera para acceder a tu intuición, o puede estar eligiendo ignorar sentimientos viscerales importantes. No puedes encontrar el camino al abrevadero. Algún aspecto del futuro aún no revelado puede causar un retraso o un cambio de planes.",
+      "imgVertical": "02_la_sacerdotisa_0.jpg",
+      "imgInvertida": "02_la_sacerdotisa_1.jpg"
+    },
+    {
+      "id": "03",
+      "posicion": true,
+      "nombre": "La Emperatriz",
+      "descVertical":
+        "En posición vertical, la Emperatriz simboliza la fertilidad, el embarazo, la maternidad, la sensualidad y la imaginación creativa. Esta carta puede anunciar un matrimonio inminente, el deseo de tener hijos o el nacimiento de un hijo. Está entrando en un período de productividad y abundancia, a menudo en forma de descendencia del cuerpo o de la mente. Eres capaz de una gran productividad a medida que ayudas a la aprobación de tus ideas creativas. a través de su canal de parto. El apoyo y la crianza están disponibles. Es importante ejercer el cuidado adecuado del cuerpo en este momento.",
+      "descInvertida":
+        "Cuando se invierte, la Emperatriz sugiere que es posible que no estés cuidando los recursos naturales que te han sido confiados. Quizás has estado descuidando tu cuerpo o derrochando la abundancia en tu vida. Alternativamente, puede estar pasando por un período de infertilidad, ya sea literal o figurativamente, en el que parece difícil producir cualquier tipo de descendencia, ya sea física o mental. Una idea creativa puede estar atrapada en su canal de parto. La emperatriz está relacionada con el matrimonio, y la carta invertida puede significar dificultades con los planes de boda o un retraso en formar una familia.",
+      "imgVertical": "03_la_emperatriz_0.jpg",
+      "imgInvertida": "03_la_emperatriz_1.jpg"
+    },
+    {
+      "id": "04",
+      "posicion": true,
+      "nombre": "El Emperador",
+      "descVertical":
+        "¡Saluda al jefe! En posición vertical, el Emperador representa una persona de autoridad, voluntad, planificación, organización, análisis, pensamiento estratégico y masculinidad fálica. ¡He aquí! El Emperador es el Arquetipo del Padre, el Señor y Maestro que sabe cómo hacer las cosas. Un líder poderoso, se hace cargo, pone las cosas en orden y protege a los que están bajo su dominio. Él gobierna con su mente en lugar de con su corazón. El Emperador aparece en una lectura para recordarte que debes dar un paso al frente, ser fiel a tus principios y usar tu poder para estructurar tu vida para lograr lo que se debe hacer. Debe establecer objetivos claros y establecer límites firmes para que pueda proporcionar estabilidad y hacer el trabajo.",
+      "descInvertida":
+        "Cuando se invierte, el Emperador sugiere que de alguna manera usted pudo haber sido negligente en el cumplimiento de su papel como líder, organizador o persona a cargo. Tal vez has estado dando vueltas o, en el otro extremo del espectro, actuando de manera dictatorial. No seas un cobarde; es hora de actuar según tu edad y poner tu vida en orden. Debe analizar la situación, establecer fronteras y límites, y desarrollar un plan para hacer lo que debe hacerse. El presidente Harry S. Truman tenía un cartel en su escritorio que decía “¡El dinero se detiene aquí!para recordarle que el presidente tiene la autoridad final para tomar decisiones pero también la responsabilidad última de sus consecuencias.",
+      "imgVertical": "04_el_emperador_0.jpg",
+      "imgInvertida": "04_el_emperador_1.jpg"
+    },
+    {
+      "id": "05",
+      "posicion": true,
+      "nombre": "El Hierofante",
+      "descVertical":
+        "Cuando está erguido, el Sumo Sacerdote es un guía sabio y espiritualmente orientado a quien puede recurrir el consultante. Esta persona puede ser un amable maestro, un mentor o un consejero espiritual, no pocas veces conectado con un entorno religioso o académico. Una de las funciones del Hierofante es realizar ritos sagrados que transmiten la sabiduría tradicional a la siguiente generación. El Sumo Sacerdote a menudo oficia en ceremonias como bodas, bautizos, bar mitzvahs, funerales y similares. Debido a que esta figura sacerdotal tiene autoridad para unir (“enganchar”) a las parejas en matrimonio, esta tarjeta puede ser un presagio de matrimonio. En cualquier caso, cuando el Hierofante aparece en una lectura, es probable que estés tratando con los valores tradicionales de tu familia, cultura o religión.",
+      "descInvertida":
+        "Cuando se invierte, el Sumo Sacerdote advierte que puede estar adoptando una postura rígidamente dogmática dictada por los valores tradicionales. Hay una tendencia a seguir la letra en lugar del espíritu de la ley. Tal rigidez extrema con su apelación irreflexiva a la autoridad tradicional a menudo se adopta para subyugar a otros y negarles los derechos humanos básicos. El Hierofante invertido recuerda las palabras de Karl Marx de que la religión es el opio del pueblo. Marx prosiguió explicando que su visión de la religión como un opiáceo “desengaña al hombre, de modo que piensa, actúa y modela su realidad como un hombre que ha desechado sus ilusiones y ha recobrado sus sentidos, de modo que se moverá a su alrededor como su propio Sol verdadero.”37¿Estás siguiendo el consejo del hombre detrás de la cortina del Mago de Oz?",
+      "imgVertical": "05_el_hierofante_0.jpg",
+      "imgInvertida": "05_el_hierofante_1.jpg"
+    },
+    {
+      "id": "06",
+      "posicion": true,
+      "nombre": "Los Amantes",
+      "descVertical":
+        "Cuando está en posición vertical, la carta de los Amantes representa una elección importante que influirá significativamente en el curso de la vida de uno. Esta elección puede tener que ver con una relación romántica o una decisión de casarse y tener hijos. La letra hebrea asociada Zayín evoca la imagen de arar un campo y cultivarlo sabiamente para asegurar una buena cosecha. Las decisiones que tome ahora tendrán consecuencias a largo plazo, por lo que es imperativo pensar bien las cosas, obtener buenos consejos y elegir sabiamente. La asociación de la carta con el signo Géminis sugiere un amor entre individuos que puede perdurar por una eternidad.",
+      "descInvertida":
+        "Cuando se invierte, la carta de los Amantes sugiere que puede estar apresurándose a tomar una decisión sin considerarla detenidamente. Tal vez te hayas dejado llevar por una nueva relación y no puedas pensar con claridad. El amor es ciego, y las flechas de Cupido pueden tentarlo a sembrar avena salvaje sin considerar las consecuencias. ¿Te estás comportando como un agricultor que no ha arado adecuadamente sus campos o cultivado adecuadamente sus cultivos? Sin una preparación cuidadosa, no puede haber una buena cosecha. Con la debida deliberación, puede evitar tiempos difíciles.",
+      "imgVertical": "06_los_amantes_0.jpg",
+      "imgInvertida": "06_los_amantes_1.jpg"
+    },
+    {
+      "id": "07",
+      "posicion": true,
+      "nombre": "El Carro",
+      "descVertical":
+        "Cuando está erguido, el Carro te insta a dominar la situación en medio de circunstancias cambiantes. Debes tomar las riendas del carro en el que viajas por la vida. Dentro del caparazón protector de tu personalidad, tienes los recursos necesarios para lograr tus objetivos. El éxito dependerá de su capacidad de usar la razón para lograr un equilibrio entre sus ambiciones y sus apetitos, que pueden empujarlo en diferentes direcciones. Es importante establecer límites claros y respetar sus propios límites. Ahora es el momento de pensar con claridad, tomar el control y asumir la dirección de su vida. A menudo, el carro aparece cuando está planeando un viaje o está a punto de embarcarse en un viaje significativo, ya sea literal o metafórico.",
+      "descInvertida":
+        "Cuando se invierte, el Carro le advierte que puede estar permitiéndose vagar sin rumbo fijo en lugar de asumir el control de la dirección de su vida. Puede sentirse vulnerable y a merced de fuerzas externas. Tus muchas ambiciones y tu deseo de varios placeres pueden estar alejándote de tu camino preferido. Preste atención a establecer límites claros y conocer sus propios límites. No sueltes las riendas de tu carro personal. Ahora es el momento de enfocarte en lo que más valoras y organizar tu curso de vida para que puedas llegar a tu destino más preciado. Si el carro se refiere a un vehículo o un viaje literal, su viaje puede retrasarse o tener dificultades.",
+      "imgVertical": "07_el_carro_0.jpg",
+      "imgInvertida": "07_el_carro_1.jpg"
+    },
+    {
+      "id": "08",
+      "posicion": true,
+      "nombre": "La Fuerza",
+      "descVertical":
+        "Cuando está en posición vertical, la carta Fuerza/Lujuria sugiere la necesidad de enfrentar una situación con coraje, determinación y fortaleza, como lo hizo Hércules cuando se enfrentó al León de Nemea. Tus pasiones animales se agitan y pueden entrar en conflicto con tu ser civilizado. Te sientes lujuriosamente poderoso y disfrutas completamente el uso de tu cuerpo. La salud mejora y tu energía aumenta. Temas relacionados con la sexualidad salen a revisión. La conexión de la carta de la Fuerza con el signo Leo y con el Sol sugiere que este puede ser un momento de autoexamen compasivo, que puede conducir a la iluminación. Leo es conocido por su calidez, generosidad y disfrute lujurioso de la vida.",
+      "descInvertida":
+        "Cuando se invierte, Fuerza implica que es posible que deba reunir el coraje para enfrentar sus dificultades. Tal vez te sientas temeroso o desesperanzado frente a poderosos deseos instintivos que imaginas que están fuera de tu control. Por otro lado, es posible que se haya excedido al tratar de ganar admiración por lo atractivo o sexualmente hábil que es, haciendo que los demás lo perciban como dominante, vanidoso, engreído o controlador.",
+      "imgVertical": "08_la_fuerza_0.jpg",
+      "imgInvertida": "08_la_fuerza_1.jpg"
+    },
+    {
+      "id": "09",
+      "posicion": true,
+      "nombre": "El Ermitaño",
+      "descVertical":
+        "Cuando está erguido, el Ermitaño indica la necesidad de pasar tiempo lejos del mundanal ruido. Ahora es el momento de ordenar sus pensamientos y reagrupar sus fuerzas. Se impone un período de soledad y contemplación. En esta era moderna de la tecnología, alguien bromeó diciendo que la meditación proporciona las respuestas que no puedo encontrar enGoogle. Has pasado por mucho y ha llegado el momento de esperar y observar. Una actitud de paciente circunspección le permitirá poner las cosas en perspectiva y aprender de su experiencia. Podría considerar leer el libro de Eckhardt TolleEl poder del ahora.",
+      "descInvertida":
+        "Cuando se invierte, el Ermitaño sugiere que estás atrapado en el ajetreo y el bullicio de la vida diaria y no puedes ver claramente hacia dónde te diriges. Considere tomarse un tiempo libre y permitirse un espacio para meditar y retomar el rumbo. Un gran filósofo comentó una vez que la vida no examinada no vale la pena ser vivida. Hay mucha sabiduría que se puede extraer de su experiencia si solo se toma el tiempo para hacerlo. Un poco de distancia es lo que necesitas para poner las cosas en perspectiva",
+      "imgVertical": "09_el_ermitaño_0.jpg",
+      "imgInvertida": "09_el_ermitaño_1.jpg"
+    },
+    {
+      "id": "10",
+      "posicion": true,
+      "nombre": "La Rueda de la Fortuna",
+      "descVertical":
+        "Cuando está en posición vertical, la Rueda de la Fortuna nos recuerda que nuestra buena fortuna a menudo es el resultado de giros del destino y no de nuestras propias acciones. Ahora es el momento de disfrutar de tu buena suerte porque mañana puede cambiar igual de rápido. Si las cosas van bien ahora, asegúrese de aprovecharlo al máximo y reserve algo para un día lluvioso. Por el momento, el destino te sonríe. Aproveche el momento porque una oportunidad que se presenta hoy puede no estar disponible mañana. Contempla la letra de la canción de Pete Seeger “Turn, Turn, Turn”, que pone música a las palabras bíblicas: “Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora” (Eclesiastés 3:1,NVI).",
+      "descInvertida":
+        "Cuando se invierte, la Rueda de la Fortuna advierte que su buena suerte no puede durar para siempre. Todo lo que sube tiene que bajar. Cada estación da paso a la siguiente y debes estar preparado para la posibilidad de un día lluvioso. Aunque nuestro destino depende en gran medida de lo que hacemos, pueden suceder cosas inesperadas que están fuera de nuestro control. Tenga en cuenta las palabras de Bruto: Hay una marea en los asuntos de los hombres. Lo cual, tomado en el diluvio, conduce a la fortuna; Omitidos, todo el viaje de su vida está ligado a bajíos y miserias. William Shakespeare, Julio César, Acto 4, Escena 3, 1599.",
+      "imgVertical": "10_la_rueda_de_la_fortuna_0.jpg",
+      "imgInvertida": "10_la_rueda_de_la_fortuna_1.jpg"
+    },
+    {
+      "id": "11",
+      "posicion": true,
+      "nombre": "La Justicia",
+      "descVertical":
+        "Cuando está en posición vertical, la carta de Justicia sugiere que su situación actual depende de cuestiones de equilibrio, equilibrio, trato justo y justicia. Si está involucrado en un asunto legal, se juzgará de manera imparcial y es probable que se decida a su favor (pero solo si tiene razón). Si está equivocado, se aplica la misma imparcialidad y será responsable. En cualquier decisión que tome ahora, es esencial ser honesto y juicioso al sopesar los pros y los contras. En las palabras de la Biblia: “No os engañéis; Dios no puede ser burlado; porque todo lo que el hombre sembrare, eso también segará” (Gálatas 6:7,NVI).",
+      "descInvertida":
+        "Cuando está invertida, la carta de Justicia puede significar que su situación involucra injusticia, injusticia, prejuicio o parcialidad. Los asuntos pueden sentirse desequilibrados o inclinados en su contra. Es probable que los procedimientos legales causen dificultades. La deshonestidad puede caracterizar su trato con los demás. Si la diosa Ma'at pesara tu alma contra una pluma en este momento, ¿te consideraría digno de entrar en el paraíso?",
+      "imgVertical": "11_la_justicia_0.jpg",
+      "imgInvertida": "11_la_justicia_1.jpg"
+    },
+    {
+      "id": "12",
+      "posicion": true,
+      "nombre": "El Colgado",
+      "descVertical":
+        "Cuando está de pie, el Hombre Colgado parece una imagen reflejada en la superficie de un cuerpo de agua, lo que sugiere que lo que percibimos con nuestros sentidos no es más que un reflejo de una realidad más profunda. Para comprender lo que es realmente real, es posible que debamos adoptar una nueva perspectiva. Si tu vida se siente como si estuviera en espera o en un estado de suspensión, es hora de adoptar una perspectiva espiritual y buscar el bien común. A veces necesitamos hacer sacrificios y dejar ir algo que valoramos para lograr un bien mayor. En cualquier caso, cuando aparece el Ahorcado en una lectura, es probable que estés viendo o haciendo algo. de lo ordinario de una manera que lo diferencie del enfoque más aceptado de quienes lo rodean.",
+      "descInvertida":
+        "Cuando se invierte, el Hombre Colgado sugiere que es posible que te estés aferrando demasiado a una ilusión que te impide obtener una perspectiva más clara. Negarse a hacer un sacrificio necesario puede resultar en más pérdidas y sufrimiento. Jugar al mártir no será productivo. En la Italia del Renacimiento, colgar a alguien cabeza abajo era un castigo reservado para los traidores. Después de traicionar a Cuauhtémoc, el último emperador azteca, el conquistador español Cortés mató al guerrero azteca colgándolo boca abajo en una pose de Cristo, como se representa vívidamente en el mural de Diego Rivera titulado “Explotación de México por los conquistadores españoles”.",
+      "imgVertical": "12_el_colgado_0.jpg",
+      "imgInvertida": "12_el_colgado_1.jpg"
+    },
+    {
+      "id": "13",
+      "posicion": true,
+      "nombre": "La Muerte",
+      "descVertical":
+        "Cuando está en posición vertical, el triunfo de la Muerte señala un período de cambio y transformación significativos. Una nueva semilla está brotando en tu vida. Un capítulo termina y otro comienza. Este proceso necesario no debe negarse ni evitarse. El tema principal de esta carta es “fuera lo viejo para dar paso a lo nuevo”. Ten valor para enfrentar lo desconocido porque te espera una nueva vida. Tenga presente la admonición bíblica: “Si el grano de trigo no cae en tierra y muere, queda solo; pero si muere, lleva mucho fruto” (Juan 12:24,NVI).",
+      "descInvertida":
+        "Cuando se invierte, la carta de la Muerte sugiere que puede estar evitando el cambio y la transición necesarios. Aferrarse al pasado no es productivo a largo plazo. Los aspectos de su vida que están estancados o gastados deben descartarse para que pueda tener lugar un nuevo crecimiento. ¿Estás creando condiciones adversas al brote de nuevas semillas en tu vida? Si es así, ahora es el momento de armarse de valor para enfrentar lo desconocido.",
+      "imgVertical": "13_la_muerte_0.jpg",
+      "imgInvertida": "13_la_muerte_1.jpg"
+    },
+    {
+      "id": "14",
+      "posicion": true,
+      "nombre": "La Templanza",
+      "descVertical":
+        "Cuando está en posición vertical, el triunfo de la Templanza sugiere que estás lidiando con una situación que involucra la reconciliación de los opuestos dentro de ti. Como los alquimistas de antaño, estás tratando de convertir un metal base en oro. Estáis llamados a actuar con moderación ya ejercitar la virtud de la templanza. Con un esfuerzo persistente, podrá combinar fuerzas en competencia de manera armoniosa para crear algo de mayor valor. Los artistas del Renacimiento que crearon esta imagen sin duda se inspiraron en la mezcla de agua y vino en la Misa católica durante la cual el sacerdote reza: “Por el misterio de este agua y vino, que participemos de la naturaleza divina de Cristo, que se humilló a sí mismo para compartir nuestra humanidad”.",
+      "descInvertida":
+        "Cuando se invierte, la carta de la Templanza implica que tienes dificultades para encontrar un justo medio. Enfrentado a impulsos contradictorios, se siente perdido acerca de cómo lograr un ingenioso equilibrio. Estás tentado a ir a los extremos en lugar de buscar un término medio de reconciliación. Medita en las palabras del filósofo: “Moderación en todas las cosas, incluso la moderación”. Como advirtió Abraham Lincoln: “Una casa dividida contra sí misma no puede permanecer en pie”.",
+      "imgVertical": "14_la_templanza_0.jpg",
+      "imgInvertida": "14_la_templanza_1.jpg"
+    },
+    {
+      "id": "15",
+      "posicion": true,
+      "nombre": "El Diablo",
+      "descVertical":
+        "Cuando está erguido, el Diablo sugiere que tiene la oportunidad de realizar actividades que le proporcionen placer y satisfacción intensos. Esta carta aparece a menudo cuando estamos contemplando un proyecto que requiere una devoción casi obsesiva para lograr una ambición material. El Diablo nos advierte que mantengamos el equilibrio en nuestra vida mientras perseguimos ansiosamente esta meta y que no permitamos que el apego excesivo a las tentaciones materiales nos desvíe.",
+      "descInvertida":
+        "Cuando se invierte, la carta del Diablo sugiere que es posible que haya ido demasiado lejos en la búsqueda de placeres y placeres sensuales. El desequilibrio y los extremos de comportamiento pueden estar causando dificultades. La devoción obsesiva a cualquier tipo de meta materialista o placer corporal es una forma de esclavitud y atrapamiento. A veces las cosas que se sienten bien no son buenas para nosotros. Una característica importante de la imagen del triunfo del diablo es que las cadenas se quitan fácilmente una vez que te das cuenta de que están presentes. De lo contrario acabas haciéndote eco de las palabras de Oscar Wilde: “Puedo resistir cualquier cosa menos la tentación”.",
+      "imgVertical": "15_el_diablo_0.jpg",
+      "imgInvertida": "15_el_diablo_1.jpg"
+    },
+    {
+      "id": "16",
+      "posicion": true,
+      "nombre": "La Torre",
+      "descVertical":
+        "Cuando está en posición vertical, la Torre sugiere que necesita evaluar críticamente las estructuras que lo están confinado o limitando su vida. Si no lo haces voluntariamente, el universo encontrará la forma de forzarte a cambiar. Las rutinas de larga data que han estado obstaculizando su progreso deben abandonarse. Los cambios imprevistos pueden parecer traumáticos al principio, pero a la larga pueden abrir la puerta a la renovación. Hay un viejo adagio que dice que cada crisis presenta una oportunidad. Las alteraciones inesperadas y, a veces, drásticas en el curso de la vida de uno a menudo van acompañadas de percepciones repentinas y profundas sobre la naturaleza de la realidad y el sistema de creencias de uno. Concretamente, tales eventos pueden incluir separación, divorcio, pérdida de trabajo, fracaso escolar, reveses financieros, un diagnóstico médico perturbador, etc.",
+      "descInvertida":
+        "Cuando se invierte, la Torre implica que es posible que esté evitando el cambio necesario o que no esté aprendiendo de una situación traumática. No podemos evitar que a la gente buena le pasen cosas malas, pero podemos aprovechar la oportunidad de crecer en sabiduría a partir de lo que experimentamos en nuestra vida. Considere la parábola de la casa edificada sobre la arena: “… un hombre necio, que edificó su casa sobre la arena, y cayó la lluvia, y vinieron los torrentes, y soplaron los vientos y dieron con la casa y cayó; su ruina” (Mateo 7:26–27,NVI). ¿De qué manera has construido tu casa sobre la arena?",
+      "imgVertical": "16_la_torre_0.jpg",
+      "imgInvertida": "16_la_torre_1.jpg"
+    },
+    {
+      "id": "17",
+      "posicion": true,
+      "nombre": "La Estrella",
+      "descVertical":
+        "Cuando está en posición vertical, el triunfo de la estrella ofrece esperanza y apoyo después de la interrupción de la carta de la torre. Estás empezando a ver la luz al final del túnel. Ha localizado un sendero que conduce a su destino. Hay una promesa de paz y tranquilidad si continúas en tu camino actual. La ayuda puede materializarse de fuentes inesperadas. Puede proceder con fe en que el futuro tiene perspectivas más brillantes. Como dijo Marco Tulio Cicerón hace unos dos mil años: “Donde hay vida, hay esperanza”.",
+      "descInvertida":
+        "Cuando se invierte, la carta de estrella sugiere que no tiene esperanzas de obtener un resultado positivo. Puede que estés sufriendo una crisis de fe o sintiéndote acosado por las dudas de que las cosas no saldrán bien al final. Ahora es el momento de evaluar su situación de manera realista y desterrar cualquier falsa esperanza o expectativa basada en la ilusión. ¿Eres capaz de ver el cristal? sólo como medio vacío? ¿Eres incapaz de reconocer el sendero que te guía bajo tus pies? Tenga en cuenta la moraleja de la fábula de Esopo: los dioses ayudan a los que se ayudan a sí mismos.",
+      "imgVertical": "17_la_estrella_0.jpg",
+      "imgInvertida": "17_la_estrella_1.jpg"
+    },
+    {
+      "id": "18",
+      "posicion": true,
+      "nombre": "La Luna",
+      "descVertical":
+        "Cuando está en posición vertical, la Luna sugiere que las circunstancias pueden ser esquivas, poco claras, confusas, fluctuantes o inestables en este momento. La Luna tiene un lado oscuro, siempre oculto a la vista humana. Las personas bajo la influencia de drogas o alcohol pueden causar problemas. Es posible que se haya malinterpretado información importante o que aún no esté a su alcance. Pueden estar actuando influencias invisibles, y es probable que las cosas se vean diferente a la luz del día. Puedes estar en una fase de un ciclo, y solo con el paso del tiempo se revelará la siguiente fase. No saque conclusiones precipitadas ni actúe por impulso. Asegúrese de tener información precisa y verificable antes de tomar una decisión importante.",
+      "descInvertida":
+        "Cuando se invierte, la Luna puede indicar que estás a punto de salir de un período de confusión o incertidumbre. Muchos lectores consideran que la carta de la Luna invertida plantea problemas más leves que la carta en posición vertical. A veces, la Luna invertida aparece cuando una consultante femenina enfrenta dificultades ginecológicas.",
+      "imgVertical": "18_la_luna_0.jpg",
+      "imgInvertida": "18_la_luna_1.jpg"
+    },
+    {
+      "id": "19",
+      "posicion": true,
+      "nombre": "El Sol",
+      "descVertical":
+        "Cuando está en posición vertical, el Sol es una carta positiva que típicamente simboliza un período de éxito, logro, reconocimiento, calidez, felicidad, popularidad y satisfacción. La salud mejora y las relaciones personales prosperan. Las situaciones de trabajo y las nuevas empresas van bien. Debido a la conexión del Sol con Leo y la quinta casa del zodíaco natural, los astrólogos modernos creen que esta carta también puede significar romance, matrimonio, autoexpresión creativa, el nacimiento de niños u otros asuntos relacionados con la descendencia. Ahora es un tiempo de claridad, iluminación e iluminación. Reflexiona sobre las palabras del bardo: “¡Qué lejos arroja sus rayos esa pequeña vela! Así brilla una buena acción en un mundo cansado” (William Shakespeare,El mercader de Venecia, 1600).",
+      "descInvertida":
+        "Cuando se invierte, el Sol sigue siendo una carta positiva, pero presumiblemente en menor grado. Puede ser que algo te esté impidiendo experimentar plenamente la alegría y la claridad que es posible en este momento. Tal vez tu ego inflado se interponga en el camino; el orgullo excesivo es uno de los defectos del signo Leo. Puede que no recibas la ovación de pie que esperabas.",
+      "imgVertical": "19_el_sol_0.jpg",
+      "imgInvertida": "19_el_sol_1.jpg"
+    },
+    {
+      "id": "20",
+      "posicion": true,
+      "nombre": "El Juicio",
+      "descVertical":
+        "Cuando está en posición vertical, la trompeta de la carta del Juicio te despierta a una nueva fase de existencia. Quizás esté entrando en un período de renacimiento y transformación que requerirá que tome una decisión importante. Habiendo escuchado el llamado, ¿estás listo para hacer los cambios necesarios y emprender el camino del rejuvenecimiento y la renovación? La redención requiere la aceptación de la responsabilidad por el comportamiento pasado y el compromiso de hacer las cosas mejor la próxima vez.",
+      "descInvertida":
+        "Cuando está invertida, la carta del Juicio sugiere que es posible que no esté prestando atención a la llamada para despertar y cambiar la dirección de su vida. Si rechaza esta oportunidad de reanimarse, puede terminar estancado y sentirse atrapado en una rutina. Tal vez su desgana se deba al miedo al cambio, una sensación de arrepentimiento o sentimientos de autorecriminación. Reflexiona sobre el versículo bíblico: “Si el grano de trigo no cae en tierra y muere, queda solo; pero si muere, lleva mucho fruto” (Juan 12:24, Versión King James 2000).",
+      "imgVertical": "20_el_juicio_0.jpg",
+      "imgInvertida": "20_el_juicio_1.jpg"
+    },
+    {
+      "id": "21",
+      "posicion": true,
+      "nombre": "El Mundo",
+      "descVertical":
+        "Cuando está en posición vertical, la tarjeta Mundo destaca un objetivo o destino importante en su vida. Es posible que se esté acercando a la realización de una ambición importante o tal vez esté a punto de embarcarse en un viaje para lograr un deseo preciado. En cualquier En este caso, se encuentra en una etapa importante de su desarrollo y necesitará todos los recursos a su disposición para llevar el asunto a buen término. Así como Saturno, el último planeta visible a simple vista, marca el límite visible más externo del sistema solar, el triunfo mundial marca el final del viaje del Loco hacia la iluminación. Llegar a esta carta es una señal de finalización, iluminación y éxito. Estás regresando al Jardín del Edén.",
+      "descInvertida":
+        "Cuando está invertida, la carta Mundo sugiere que de alguna manera estás obstaculizado o retrasado en tu viaje hacia un destino importante. Tal vez usted no es consciente de sus propios límites y no ha logrado establecer metas realistas. Debe examinar y confrontar lo que lo detiene para que pueda reanudar su movimiento hacia adelante. ¿Tu actitud o comportamiento actual resultará en la expulsión del Jardín del Edén?",
+      "imgVertical": "21_el_mundo_0.jpg",
+      "imgInvertida": "21_el_mundo_1.jpg"
+    },
+    {
+      "id": "22",
+      "posicion": true,
+      "nombre": "As de Espadas",
+      "descVertical":
+        "Cuando está en posición vertical, el as de espadas sugiere nuevos comienzos relacionados con el pensamiento basado en principios y la comunicación efectiva. Puede enfocar su mente, ver las cosas con claridad, atravesar la confusión, invocar una fuerza intensa y poner las cosas en perspectiva. Con el coraje de tus convicciones, cortas la basura y no soportas a los tontos de buena gana. Las espadas son armas de batalla, y el as en posición vertical indica el coraje para enfrentar los obstáculos y luchar por lo que crees. es probable que salga victorioso de sus luchas, con un mayor sentido de identidad personal. En el mito de Perseo y Medusa, el héroe usa su inteligencia estratégica para burlar al monstruo con cabeza de serpiente y cortarle la cabeza con su poderosa espada. Sigmund Freud señaló que la espada ha sido durante mucho tiempo un símbolo de un poderoso falo.",
+      "descInvertida":
+        "Cuando se invierte, el As de espadas advierte sobre el mal uso de la fuerza, quizás en forma de peleas u otras formas de conflicto que pueden conducir a separaciones en las relaciones. Ten cuidado con lo que dices porque las palabras, como las espadas, pueden causar heridas dolorosas. El as de espadas invertido también puede indicar que estás gastando tu energía de una manera inapropiada o que no te beneficia.",
+      "imgVertical": "22_as_de_espadas_0.jpg",
+      "imgInvertida": "22_as_de_espadas_1.jpg"
+    },
+    {
+      "id": "23",
+      "posicion": true,
+      "nombre": "Dos de Espadas",
+      "descVertical":
+        "Cuando está erguido, el Dos de Espadas sugiere que su estado interior es tranquilo y finamente equilibrado. Puede revisar sus opciones y tomar decisiones razonadas en un contexto de circunstancias cambiantes y emociones variadas. Si ha tenido diferencias con otros, puede ver el valor de resolver las diferencias y enterrar el hacha. Este estado de paz y autocontrol caracteriza la relación que sientes con tus amigos más cercanos. La verdadera amistad se basa en el equilibrio tierno y honesto de las necesidades, deseos y sentimientos de ambas partes.",
+      "descInvertida":
+        "Cuando se invierte, el Dos de Espadas indica que algún tipo de desequilibrio ha perturbado su sentido de dominio propio. Es posible que se encuentre en un callejón sin salida, incapaz de juzgar o decidir un curso de acción correcto. Alternativamente, puede tener la necesidad de actuar por impulso sin considerar adecuadamente las consecuencias. Tal comportamiento superficial probablemente tendrá consecuencias negativas. Puede haber una perturbación en una o más de sus amistades. Tal vez alguien a quien considerabas un amigo está involucrado en un engaño o una traición, o quizás te sientas tentado a mentirle a alguien que confía en ti.",
+      "imgVertical": "23_dos_de_espadas_0.jpg",
+      "imgInvertida": "23_dos_de_espadas_1.jpg"
+    },
+    {
+      "id": "24",
+      "posicion": true,
+      "nombre": "Tres de Espadas",
+      "descVertical":
+        "Cuando está erguido, el Tres de Espadas sugiere que te enfrentas a algún tipo de separación, pérdida, ruptura de lazos o sufrimiento que te llevará a importantes realizaciones sobre tu vida emocional y te ayudará a crecer en sabiduría. Esta tarjeta representa clima tormentoso para las emociones. Es posible que deba lidiar con sentirse alienado, aislado, decepcionado, afligido o solo. Debido a que las espadas son un traje mental y cargado de conflictos, es posible que te veas envuelto en disputas con amigos o seres queridos. Una reunión esperada con alguien que te importa puede no materializarse. A veces, esta tarjeta indica la necesidad de una cirugía, ya sea para usted o para alguien cercano a usted. Cuando todo está dicho y hecho, el sufrimiento y la infelicidad que implica esta carta ofrecen una oportunidad para un nuevo comienzo.",
+      "descInvertida":
+        "Cuando se invierte, el Tres de Espadas implica que no te estás permitiendo crecer como resultado de tu sufrimiento. En lugar de aferrarse a los resentimientos y mantener una disputa, puede ser hora de enterrar el hacha y aclarar las cosas. Pegajoso demasiado tiempo para el rencor y la tristeza solo resultará en una angustia prolongada. Considere las cinco etapas del duelo descritas por Elisabeth Kübler-Ross (1969): (1) negación y aislamiento, (2) ira, (3) negociación, (4) depresión y finalmente (5) aceptación. El Tres de Espadas trata sobre el proceso de duelo y, en última instancia, aceptar y dejar ir para restablecer el equilibrio en su vida (Saturno en Libra).",
+      "imgVertical": "24_tres_de_espadas_0.jpg",
+      "imgInvertida": "24_tres_de_espadas_1.jpg"
+    },
+    {
+      "id": "25",
+      "posicion": true,
+      "nombre": "Cuatro de Espadas",
+      "descVertical":
+        "Cuando está en posición vertical, el Cuatro de Espadas indica un tiempo de reposo, curación, soledad y recuperación. Tenga en cuenta la palabraPAZ( Latín para paz) en el halo del ángel en la vidriera. Quizás se esté recuperando de una enfermedad o necesite un descanso de circunstancias estresantes. En el lenguaje tecnológico moderno, es posible que desee desconectarse de la red por un tiempo y recargar sus baterías. Después de un período de descanso y relajación, podrá comenzar de nuevo. Tradicionalmente esta carta representa retirarse a un ambiente meditativo, como una ermita remota en el desierto.",
+      "descInvertida":
+        "Cuando se invierte, el Cuatro de Espadas advierte de un posible rechazo o ostracismo, lo que puede hacer que te sientas solo y abandonado. A veces, sentirse aislado de esta manera es autoimpuesto por su elección de retirarse de la relación con los demás. El aislamiento meditativo que tanto buscan los ermitaños puede que no sea el oasis que esperabas.",
+      "imgVertical": "25_cuatro_de_espadas_0.jpg",
+      "imgInvertida": "25_cuatro_de_espadas_1.jpg"
+    },
+    {
+      "id": "26",
+      "posicion": true,
+      "nombre": "Cinco de Espadas",
+      "descVertical":
+        "Cuando está en posición vertical, el Cinco de Espadas indica que se trata de algún tipo de pérdida, derrota o abandono. Hay una importante lección espiritual que aprender de este experiencia lúgubre. A veces, esta carta indica que eres el vencedor que se regodea en su triunfo sin tener en cuenta los sentimientos de aquellos a quienes has humillado. Alternativamente, usted puede ser el perdedor que se siente ofendido, rechazado, abandonado o tratado injustamente. Las ciencias sociales han demostrado que las experiencias de humillación pueden provocar sentimientos de ira y, a veces, violencia.",
+      "descInvertida":
+        "Cuando se invierte, el Cinco de Espadas sugiere que has estado lamiendo tus heridas durante demasiado tiempo. Ha llegado el momento de confrontar su sentido de derrota y humillación y ver si hay una forma de lograr la reconciliación. Revolcarse en la autocompasión solo prolonga sus sentimientos heridos y su sensación de insuficiencia.",
+      "imgVertical": "26_cinco_de_espadas_0.jpg",
+      "imgInvertida": "26_cinco_de_espadas_1.jpg"
+    },
+    {
+      "id": "27",
+      "posicion": true,
+      "nombre": "Seis de Espadas",
+      "descVertical":
+        "Cuando está en posición vertical, el Seis de Espadas indica que te estás alejando de aguas turbulentas hacia circunstancias menos turbulentas con la ayuda de un remero fuerte y hábil. Todavía no estás allí, y quedan algunas dificultades residuales en tu viaje. Por el contrario, puedes estar jugando el papel del remero protector, ayudando a alguien a dejar atrás una situación problemática, en busca de una vida mejor. Crowley llamó a esta carta “Ciencia” debido a su conexión con el planeta mental Mercurio en el signo objetivo Acuario. El uso inteligente de las palabras puede desempeñar un papel importante en su situación actual.",
+      "descInvertida":
+        "Cuando se invierte, el Seis de Espadas sugiere que tienes dificultades para dejar atrás tus problemas. Algo o alguien está bloqueando tu esfuerzo por llegar a mares más tranquilos. También son posibles las dificultades o los retrasos en los viajes. Quizás debido a la asociación de esta carta con el planeta Mercurio (comunicación) en Acuario, los significados tradicionales del Seis de Espadas invertidos incluían proclamaciones, declaraciones, propuestas, revelaciones y sorpresas.",
+      "imgVertical": "27_seis_de_espadas_0.jpg",
+      "imgInvertida": "27_seis_de_espadas_1.jpg"
+    },
+    {
+      "id": "28",
+      "posicion": true,
+      "nombre": "Siete de Espadas",
+      "descVertical":
+        "Cuando está en posición vertical, el Siete de Espadas insta a una planificación cuidadosa y un enfoque estratégico para resolver una situación delicada. Haga su tarea y establezca sus metas con cuidado. Lo mejor es evitar la confrontación directa; en su lugar, trate de encontrar soluciones alternativas a cualquier tipo de conflicto o desacuerdo. El sigilo puede darte una ventaja. Es posible que desee discutir los asuntos con un consultor experto que pueda brindarle un consejo prudente. El tacto y la diplomacia son activos definitivos en su situación actual. Tenga en cuenta las palabras del poeta: Los planes mejor trazados de Ratones y Hombres a menudo salen mal, y no nos dejan más que pena y dolor, ¡Por la Alegría prometida! (Roberto Burns, “a un raton, 1785)",
+      "descInvertida":
+        "Cuando se invierte, el Siete de Espadas le aconseja que tome precauciones razonables contra el robo, el engaño y otros tipos de comportamiento turbio. Alguien en quien pensabas que podías confiar puede resultar ser una serpiente en la hierba. Su timidez e indecisión pueden estar contribuyendo a pensamientos confusos y esfuerzos inestables. Es posible que desee buscar un consejo sabio para evitar perseguir arcoíris o morder más de lo que puede masticar.",
+      "imgVertical": "28_siete_de_espadas_0.jpg",
+      "imgInvertida": "28_siete_de_espadas_1.jpg"
+    },
+    {
+      "id": "29",
+      "posicion": true,
+      "nombre": "Ocho de Espadas",
+      "descVertical":
+        "Cuando está en posición vertical, el Ocho de Espadas sugiere que te sientes atrapado o acorralado por las circunstancias. Algunas de estas restricciones pueden ser de su propia creación y otras pueden deberse a la interferencia de eventos imprevistos. Tiendes a sobre- pensar en situaciones e inhibirse a través de creencias limitantes, autoculpabilización excesiva o entrega de su poder a los demás. Puede que estés sufriendo la parálisis del análisis. Ahora es el momento de quitarse la venda de los ojos y mirar bien a su alrededor. La libertad está a tu alcance. Considere las palabras del poeta Richard Lovelace (1642): “Los muros de piedra no hacen una prisión ni las barras de hierro una jaula”",
+      "descInvertida":
+        "Cuando se invierte, el Ocho de espadas tiene un significado similar al de la carta vertical, pero también implica que puedes despejar los obstáculos en tu camino. El potencial para la liberación radica en confrontar tus creencias limitantes y reemplazar las ideas restrictivas con actitudes más realistas. Si ha entregado su poder a los demás, es hora de recuperarlo y retomar el control de su vida.",
+      "imgVertical": "29_ocho_de_espadas_0.jpg",
+      "imgInvertida": "29_ocho_de_espadas_1.jpg"
+    },
+    {
+      "id": "30",
+      "posicion": true,
+      "nombre": "Nueve de Espadas",
+      "descVertical":
+        "Cuando está en posición vertical, esta carta representa la angustia de la mente. A veces te sientes tan mal que te gustaría huir a un refugio protegido y enclaustrarte como un monje o una monja. Los pensamientos preocupantes pueden mantenerlo despierto por la noche o tener un efecto negativo en su salud. Tal vez hayas sentido el aguijón de las palabras duras de un ser querido (Marte belicoso en Géminis mental), o temes una división o separación inminente en una relación. Sea lo que sea lo que te preocupa, solo recuerda que los asuntos se ven más sombríos en la anticipación y en la oscuridad de la noche que cuando realmente se manifiestan en la realidad tangible. Según la autora Amber Jayanti, esta carta refleja “lo doloroso que puede ser dejar ir lo que quieres y aceptar lo que es”.",
+      "descInvertida":
+        "Cuando está invertida, esta carta puede indicar que estás evitando o negándote a enfrentar tus miedos más profundos. Un refrán bien conocido del movimiento de autoayuda dice: Lo que resistes, persiste. Reconoce que estás preocupado y trata de ver las cosas más claramente a la luz del día. En las palabras de la oración de la serenidad: “Dios, concédeme la serenidad para aceptar las cosas que no puedo cambiar, el coraje para cambiar las cosas que puedo y la sabiduría para reconocer la diferencia”.",
+      "imgVertical": "30_nueve_de_espadas_0.jpg",
+      "imgInvertida": "30_nueve_de_espadas_1.jpg"
+    },
+    {
+      "id": "31",
+      "posicion": true,
+      "nombre": "Diez de Espadas",
+      "descVertical":
+        "Cuando está en posición vertical, el Diez de Espadas indica que has llegado al final de un período de angustia y sufrimiento y estás listo para seguir adelante. Has tocado fondo y las cosas no pueden ir peor. Es uno de esos momentos en tu vida en los que llegas a comprender que nunca te prometieron un jardín de rosas. Las circunstancias te están obligando a enfrentarte a un problema que se viene gestando desde hace algún tiempo, y el único camino a seguir es hacia arriba. El sol naciente de fondo implica que hay esperanza de solución; estás en el amanecer de un nuevo día. La liberación y la liberación del sufrimiento están a la mano. Dado que las espadas representan ideas y comunicaciones, los problemas creados por la desinformación se pueden resolver en este momento.",
+      "descInvertida":
+        "Cuando se invierte, el Diez de espadas sugiere que algo te impide dejar de lado los pensamientos negativos. Puede estar siguiendo malos consejos o participando en acciones catastróficas. pensando. Tal vez te estés aferrando a una relación difícil o a una mala situación que solo ha traído problemas a tu vida. Te sientes inmovilizado, pero tus peores imaginaciones no coinciden con la realidad de tus circunstancias. Si ha sido herido o traicionado, puede nadar en el pozo negro de la ira y el resentimiento, o dejar de lado el rencor y abrazar el perdón para poder seguir adelante. A veces, tocar fondo es una bendición disfrazada, ya que puede obligarte finalmente a lidiar con tus problemas.",
+      "imgVertical": "31_diez_de_espadas_0.jpg",
+      "imgInvertida": "31_diez_de_espadas_1.jpg"
+    },
+    {
+      "id": "32",
+      "posicion": true,
+      "nombre": "Sota de Espadas",
+      "descVertical":
+        "Cuando está de pie, el Paje de Espadas es un joven perceptivo que conecta rápidamente los puntos para construir teorías sobre lo que está sucediendo. Su habilidad para planificar mentalmente y para ir al grano hace que este paje sea especialmente hábil en cualquier tipo de trabajo que requiera secreto, discernimiento y una aguda planificación mental. Sería un oponente formidable en un juego de ajedrez. Esta página valora su capacidad para pensar de forma independiente, pero a veces sus palabras agudas o su manera abrupta de comunicarse son percibidas como hirientes por aquellos.",
+      "descInvertida":
+        "Cuando se invierte, el Paje de Espadas usa su mente aguda de una manera encubierta. Puede ser astuto y astuto, ya veces paranoico y vengativo en su comportamiento. Por lo general, está involucrado en algún tipo de trato detrás de escena que puede ser en detrimento del consultante. Dado que las espadas son un palo de corte y conflicto, esta carta invertida puede ser una advertencia de cirugía o enfermedad.",
+      "imgVertical": "32_sota_de_espadas_0.jpg",
+      "imgInvertida": "32_sota_de_espadas_1.jpg"
+    },
+    {
+      "id": "33",
+      "posicion": true,
+      "nombre": "Caballero de Espadas",
+      "descVertical":
+        "Este caballero inteligente y asertivo es un buen aliado y un oponente formidable. Como el protagonista de ShakespeareEnrique V(1598), el Caballero de Espadas los anima con las palabras: “Una vez más en la brecha, queridos amigos, una vez más”. Fácilmente conecta los puntos y es capaz de ir al grano en cualquier situación. Su llegada a veces va acompañada del paso de la desgracia. En muchos sentidos, el Caballero de Espadas se pareceSeñor Galahaddel poema de 1834 de Alfred Lord Tennyson del mismo nombre: Mi buena espada talla los cascos de los hombres, Mi dura lanza empuja segura, Mi fuerza es como la fuerza de diez, Porque mi corazón es puro.",
+      "descInvertida":
+        "Cuando se invierte, el Caballero de Espadas tiende a ser impaciente, insensible y demasiado asertivo. Tiene prisa por hacer las cosas y puede estar considerando solo sus propias necesidades en detrimento de quienes lo rodean. El Caballero de Espadas invertido es una carta de conflicto y lucha. Su llegada a veces anuncia un período de infortunio. Este caballero aparece a menudo cuando hay preocupación por una enfermedad, cirugía o posiblemente la muerte de alguien con quien el consultante está conectado.",
+      "imgVertical": "33_caballero_de_espadas_0.jpg",
+      "imgInvertida": "33_caballero_de_espadas_1.jpg"
+    },
+    {
+      "id": "34",
+      "posicion": true,
+      "nombre": "Reina de Espadas",
+      "descVertical":
+        "Cuando está de pie, la Reina de Espadas indica la necesidad de mantener su ingenio sobre usted mientras atraviesa un período de pérdida anticipada, privación o dolor real. Esta reina ha conocido el dolor, pero ha madurado y se ha vuelto más autosuficiente como resultado de sus privaciones.",
+      "descInvertida":
+        "Cuando se invierte, la Reina de Espadas sugiere que es posible que no estés lidiando bien con la pérdida de algo importante en tu vida. Tal vez te sientas afligido o amargado por lo que has sufrido. Es importante evitar volverse malhumorado o vengativo en respuesta a su pérdida o privaciones.",
+      "imgVertical": "34_reina_de_espadas_0.jpg",
+      "imgInvertida": "34_reina_de_espadas_1.jpg"
+    },
+    {
+      "id": "35",
+      "posicion": true,
+      "nombre": "Rey de Espadas",
+      "descVertical":
+        "Cuando está de pie, el Rey de Espadas representa un persona decisiva que usa su agudo intelecto para lograr el éxito. Este Rey, por ejemplo, puede ser médico, cirujano, abogado, juez o un astuto negociador. Puede ser bastante conflictivo en su búsqueda de la verdad, y no soporta a los tontos de buena gana.",
+      "descInvertida":
+        "Cuando se invierte, el Rey de Espadas usa su agudo intelecto y habilidad con las palabras sin piedad para infligir daño a los demás. Incluso puede deleitarse en causar dolor de una manera cruel y explotadora. Agresivo y dominante, disfruta confrontando a la fuerza a los demás en un esfuerzo por hacerlos retorcerse. Su medida de justicia es “ojo por ojo, diente por diente”",
+      "imgVertical": "35_rey_de_espadas_0.jpg",
+      "imgInvertida": "35_rey_de_espadas_1.jpg"
+    },
+    {
+      "id": "36",
+      "posicion": true,
+      "nombre": "As de Bastos",
+      "descVertical":
+        "Cuando está en posición vertical, el As de Bastos sugiere nuevos comienzos y promete éxito relacionado con la empresa, la ambición, la formación de identidad, la carrera y la autorrealización. Tus jugos creativos están fluyendo. Puede estar expandiendo su carrera, comenzando un nuevo trabajo o iniciando una empresa comercial. Este es un tiempo caracterizado por el entusiasmo, la inventiva, las metas ambiciosas y los proyectos innovadores. Las varitas están asociadas con el elemento Fuego, la chispa de la vida. Este as a veces señala un embarazo o el nacimiento de un niño. En el mito de Prometeo, el fuego que esta figura mítica roba a los dioses significa el despertar de la mente humana.",
+      "descInvertida":
+        "Cuando se invierte, el As de Bastos señala problemas para comenzar algo nuevo. Quizás te falta motivación o tus ideas creativas parecen haberse secado. Tal vez ha tenido un mal comienzo o no está haciendo el esfuerzo óptimo para que su proyecto despegue. Has plantado algunas semillas pero se niegan a brotar. Tus jugos creativos no parecen fluir y te sientes como si estuvieras pasando por un período estéril. Tenga en cuenta las palabras del poeta sufí: Esto también pasará.",
+      "imgVertical": "36_as_de_bastos_0.jpg",
+      "imgInvertida": "36_as_de_bastos_1.jpg"
+    },
+    {
+      "id": "37",
+      "posicion": true,
+      "nombre": "Dos de Bastos",
+      "descVertical":
+        "Cuando está en posición vertical, el Dos de Bastos sugiere que estás considerando un curso de acción o decidiendo un camino futuro que tomará tu vida. El joven de la carta está contemplando un globo terráqueo con una postura de seguridad en sí mismo. Tradicionalmente esta carta representaba pensamientos oscuros y tristeza. Le recuerda a Waite el dolor de Alejandro Magno en medio de la grandeza de la riqueza de este mundo. Las interpretaciones modernas ven el Dos de Bastos como una carta de fortuna, grandeza, dominio e influencia sobre los demás. Quizá engloba ambos significados a la vez. Puede sentir una sensación de tristeza al contemplar un posible curso de acción futuro. El número dos está relacionado con las asociaciones, la colaboración y la creación de elecciones importantes, que generalmente implican una sensación de pérdida al renunciar a algo para perseguir otra meta que deseas.",
+      "descInvertida":
+        "Cuando se invierte, el Dos de Bastos tradicionalmente ha significado sorpresa, un milagro o un acontecimiento extraordinario. Puede ocurrir algo que te llene de asombro y asombro. Por otro lado, la inversión del Dos de Bastos puede sugerir que puede tener dificultades para tomar una decisión importante sobre su futuro. Tal vez le falte suficiente confianza o se sienta plagado de dudas acerca de cuál es el mejor curso de acción. Los problemas con una pareja también pueden estar saliendo a la superficie.",
+      "imgVertical": "37_dos_de_bastos_0.jpg",
+      "imgInvertida": "37_dos_de_bastos_1.jpg"
+    },
+    {
+      "id": "38",
+      "posicion": true,
+      "nombre": "Tres de Bastos",
+      "descVertical":
+        "Cuando está en posición vertical, el Tres de Bastos muestra a un hombre mirando hacia el mar, observando sus barcos zarpar o llegar, tal vez transportando mercancías de una empresa comercial estratégicamente planificada. Este hombre y sus socios, si los tiene, se han fijado objetivos realistas y han actuado con previsión. Todo el mundo espera que esta empresa cooperativa tenga éxito; pero, para asegurarse, está supervisando cuidadosamente cada paso del proceso. Cuando aparece esta carta, se le da luz verde para expandir sus horizontes y plantar las semillas para el éxito futuro. El número 3 a menudo se refiere a empresas cooperativas, es decir, a dos o más personas que unen sus esfuerzos durante un período de tiempo para crear algo nuevo (por ejemplo, una pareja casada que tiene un bebé).",
+      "descInvertida":
+        "Cuando se invierte, el Tres de Bastos sugiere que algo le impide comenzar una nueva empresa o dar los pasos adecuados para su futuro crecimiento y desarrollo. Tal vez sus objetivos no sean realistas o el consejo que ha seguido no sea sensato. Sus esfuerzos pueden haber sido descuidados o equivocados. Debe reevaluar la situación y reevaluar sus habilidades y compromiso, así como los de las personas que ha seleccionado como asociados. ¿Ha planificado de manera óptima y ha creado la estructura adecuada para aumentar sus posibilidades de éxito?",
+      "imgVertical": "38_tres_de_bastos_0.jpg",
+      "imgInvertida": "38_tres_de_bastos_1.jpg"
+    },
+    {
+      "id": "39",
+      "posicion": true,
+      "nombre": "Cuatro de Bastos",
+      "descVertical":
+        "Cuando está en posición vertical, el Cuatro de Bastos sugiere que está estableciendo una base firme a medida que manifiesta los resultados de su trabajo. Si ha estado involucrado en un proyecto, ahora se encuentra en una etapa de finalización y puede descansar y disfrutar los frutos de su trabajo. Si su pregunta se refiere a una relación o sociedad comercial, tiene una base firme. Esta tarjeta suele representar ritos de iniciación como bodas, nacimientos, bar mitzvahs, graduaciones, etc. El simbolismo de una cosecha-hogar está vinculado a la posibilidad de adquirir una vivienda o mudarse a una nueva residencia.",
+      "descInvertida":
+        "Cuando se invierte, el Cuatro de Bastos insinúa interrupciones al completar un proyecto o comprometerse con una relación. Es posible que no se acepte una oferta por una casa que esperaba comprar. Un objetivo importante puede no realizarse, a medida que aprende que se requiere más trabajo para hacerlo realidad. En lugar de preocuparte por las preocupaciones, pon tu esfuerzo en hacer el trabajo. Esta es generalmente una tarjeta positiva, y es probable que cualquier retraso sea de corta duración.",
+      "imgVertical": "39_cuatro_de_bastos_0.jpg",
+      "imgInvertida": "39_cuatro_de_bastos_1.jpg"
+    },
+    {
+      "id": "40",
+      "posicion": true,
+      "nombre": "Cinco de Bastos",
+      "descVertical":
+        "Cuando está en posición vertical, el Cinco de Bastos es una carta de competición. Sugiere que está persiguiendo asertivamente sus deseos, aunque sus intereses personales puedan entrar en conflicto con los de sus colegas. Estás dispuesto a competir de manera justa y entusiasta con tus rivales para lograr tus objetivos. Esta tarjeta le aconseja que pise el pedal a fondo mientras participa en el juego de la vida. Una batalla simulada puede prepararte para la batalla real. Permitir la diversidad de opiniones es un signo de fortaleza en una relación. Tradicionalmente esta es una carta de riqueza y opulencia; tal vez solo los ricos podrían permitirse los costosos atuendos y el tiempo libre para jugar en las batallas simuladas que se muestran en esta tarjeta.",
+      "descInvertida":
+        "Cuando se invierte, el Cinco de Bastos advierte de una emboscada o un ataque injusto de tus adversarios. Asegúrate de tener los recursos adecuados antes de participar en la batalla. Es posible que deba enfrentar disputas, conflictos, peleas y competencia desleal para lograr sus objetivos. Una divergencia de opiniones puede estar causando dificultades en una relación. A veces, esta tarjeta indica la necesidad de resolver las diferencias en un tribunal de justicia.",
+      "imgVertical": "40_cinco_de_bastos_0.jpg",
+      "imgInvertida": "40_cinco_de_bastos_1.jpg"
+    },
+    {
+      "id": "41",
+      "posicion": true,
+      "nombre": "Seis de Bastos",
+      "descVertical":
+        "¡Prestigio! Cuando está en posición vertical, el Seis de Bastos es una carta de logro, reconocimiento, honores y victoria. Eres recompensado por un trabajo bien hecho, incluso si solo se trata de limpiar la casa, y puedes disfrutar de los frutos de tu trabajo. La energía creativa y la cooperación de los demás están disponibles para ayudarlo a avanzar y lograr sus objetivos. Grandes noticias pueden estar en camino. En la época de Etteilla, esta tarjeta implicaba tratos con mensajeros, trabajo doméstico y trabajadores domésticos.",
+      "descInvertida":
+        "Cuando se invierte, el Seis de Bastos puede representar literalmente descansar en los laureles. Es posible que tenga que luchar para obtener la cooperación y la buena voluntad de los demás. Cualquier honor o reconocimiento que recibe puede ser inmerecido. Es posible que se enfrente a un contratiempo temporal en el que su creatividad se sienta bloqueada. Enfrentar este desafío puede ser un viaje de autodescubrimiento.",
+      "imgVertical": "41_seis_de_bastos_0.jpg",
+      "imgInvertida": "41_seis_de_bastos_1.jpg"
+    },
+    {
+      "id": "42",
+      "posicion": true,
+      "nombre": "Siete de Bastos",
+      "descVertical":
+        "Cuando está en posición vertical, el Siete de Bastos sugiere que debe mantenerse firme y articular con firmeza su posición. Puede que te lleguen desafíos de varias direcciones, pero tienes el coraje de defenderte y superar las adversidades. El éxito es posible a pesar de las fuerzas en competencia que confrontan. Puede haber ganancia o ventaja en la negociación, el trueque y el discurso con tus adversarios. Sobresale en el uso hábil de la palabra escrita y hablada.",
+      "descInvertida":
+        "Cuando se invierte, el Siete de Bastos advierte sobre la vacilación y la vacilación al defender lo que cree. La oposición que enfrenta puede estar causando un nivel incómodo de ansiedad. La competencia feroz puede estar llenándote de incertidumbre y duda. Sintiéndose bajo ataque, puede ser demasiado tímido o avergonzado para afirmar su posición con fuerza.",
+      "imgVertical": "42_siete_de_bastos_0.jpg",
+      "imgInvertida": "42_siete_de_bastos_1.jpg"
+    },
+    {
+      "id": "43",
+      "posicion": true,
+      "nombre": "Ocho de Bastos",
+      "descVertical":
+        "Cuando está en posición vertical, el Ocho de Bastos significa rapidez en pensamiento y acción. Eres capaz de progresar rápidamente de una manera controlada y reflexiva. Tu entusiasmo y confianza te impulsan hacia adelante. Su rapidez de pensamiento y disposición para actuar con decisión auguran el éxito en sus emprendimientos. Los mensajes y la información pasan rápidamente de un lado a otro. Esta es una de las cartas de viaje del tarot, que sugiere que un viaje o vuelo de avión puede estar a la vista. El tiempo que se pasa en el campo puede ser agradable y refrescante. Las varitas voladoras de esta carta también simbolizan las flechas de Cupido y pueden significar ser herido por el amor.",
+      "descInvertida":
+        "Cuando se invierte, el Ocho de Bastos advierte que la prisa hace el desperdicio. Es posible que se esté moviendo demasiado rápido de manera arriesgada o descontrolada. Alternativamente, puede estar plagado de dudas y vacilaciones y, por lo tanto, no puede avanzar a un ritmo adecuado. Asegúrese de considerar las posibles consecuencias de sus acciones antes de precipitarse impulsivamente. ¿Es prudente tener tanta prisa por hacer las cosas? Los planes de viaje pueden verse interrumpidos o retrasados. Una historia de amor puede tomar un giro inesperado.",
+      "imgVertical": "43_ocho_de_bastos_0.jpg",
+      "imgInvertida": "43_ocho_de_bastos_1.jpg"
+    },
+    {
+      "id": "44",
+      "posicion": true,
+      "nombre": "Nueve de Bastos",
+      "descVertical":
+        "Cuando está de pie, el guerrero herido de esta carta debe armarse de valor para enfrentarse a otro desafío y defenderse. contra sus adversarios. Su fuerza, estado físico y autodeterminación lo han llevado hasta aquí, y es posible que deba recorrer el resto del camino solo. Aunque las probabilidades de éxito pueden parecer abrumadoras, está bien preparado para el ataque que se avecina. El guerrero sabe que debe tomar decisiones cuidadosas y recurrir a todos sus recursos internos. Tal persistencia, ante las dificultades y los retrasos, es necesaria si se quiere lograr la victoria. Si el resultado es la derrota, el guerrero sabrá que luchó con honor y distinción. A veces, una estrategia de salida es el curso de acción más inteligente.",
+      "descInvertida":
+        "Cuando se invierte, esta carta sugiere que el consultante está actuando en desventaja. Él o ella puede estar mal preparado y tener ganas de rendirse ante los obstáculos, quizás sintiéndose aislado, abrumado o agotado por las circunstancias. Un enfoque rígido o inflexible del problema probablemente no tenga éxito. A veces tienes que admitir que un desafío es insuperable o que has asumido más de lo que puedes masticar; en tal caso, el mejor curso de acción es aceptar que no está a la altura de la tarea y pasar a algo nuevo.",
+      "imgVertical": "44_nueve_de_bastos_0.jpg",
+      "imgInvertida": "44_nueve_de_bastos_1.jpg"
+    },
+    {
+      "id": "45",
+      "posicion": true,
+      "nombre": "Diez de Bastos",
+      "descVertical":
+        "Cuando está en posición vertical, el Diez de Bastos sugiere que ha trabajado duro y ha logrado mucho, pero ahora su éxito lo está agobiando. Su sentido del deber y su voluntad de asumir obligaciones han sido activos a lo largo del camino, pero ha llegado el momento de delegar y compartir la carga. Asegúrate de que la carga que llevas no sea fruto del engaño o la falsedad. Su compromiso con el trabajo bien hecho es admirable, pero hay otros que ahora están dispuestos a compartir la responsabilidad del resultado futuro. Necesitas relajarte; de lo contrario, su adicción al trabajo afectará otras áreas de su vida.",
+      "descInvertida":
+        "Cuando se invierte, el Diez de Bastos implica una incapacidad para delegar y un sentido indebido de responsabilidad por todos los aspectos de un proyecto. Otros pueden estar aprovechándose de su voluntad de hacer todo usted mismo. Es hora de que den un paso al frente y hagan lo que les corresponde. Si no confía en que sus colegas participen de manera justa, tal vez no debería trabajar con ellos. Considere el proverbio: Todo trabajo y nada de diversión hacen de Jack un niño aburrido y de Jill una niña aburrida.",
+      "imgVertical": "45_diez_de_bastos_0.jpg",
+      "imgInvertida": "45_diez_de_bastos_1.jpg"
+    },
+    {
+      "id": "46",
+      "posicion": true,
+      "nombre": "Sota de Bastos",
+      "descVertical":
+        "Las páginas representan niños, jóvenes, situaciones nuevas y las etapas iniciales de un proyecto o viaje. También pueden significar mensajeros o mensajes que llegan al consultante. Cuando está de pie, la Sota de Bastos es una persona joven, llena de sorpresas, que tiene la ambición de expandir sus horizontes a través de los viajes, la educación o la participación en un emocionante aventuras. Un extraño o extranjero puede abrir tu mente a nuevas perspectivas. La vida es una aventura, y este Page quiere vivirla al máximo.",
+      "descInvertida":
+        "Cuando se invierte, la Sota de Bastos puede traer malas noticias o indicar el retraso de un mensaje que esperaba el consultante. Los nuevos proyectos pueden tener inconvenientes o tener problemas para despegar. El consultante puede necesitar protegerse contra comportamientos imprudentes, impulsivos o demasiado ambiciosos. Un extraño o extranjero puede ser una fuente de dificultades.",
+      "imgVertical": "46_sota_de_bastos_0.jpg",
+      "imgInvertida": "46_sota_de_bastos_1.jpg"
+    },
+    {
+      "id": "47",
+      "posicion": true,
+      "nombre": "Caballero de Bastos",
+      "descVertical":
+        "Los caballeros corresponden al elemento Fuego, que sugiere acción, iniciativa, movimiento, novedad y emoción en tu vida. Cuando está erguido, el Caballero de Bastos te aconseja que te prepares para un viaje emocionante mientras agrega sabor a tu vida. El cambio está en el aire. A este caballero le encanta viajar. Echa raíces fácilmente para mudarse a una nueva ubicación, por lo que es posible un cambio de trabajo o residencia. The Wand Knight está lleno de sorpresas, y puedes esperar lo inesperado. El actor de Hollywood James Dean podría considerarse un prototipo de este fiero caballero.",
+      "descInvertida":
+        "Cuando se invierte, el Caballero de Bastos advierte sobre dificultades de viaje y falta de armonía en las relaciones. Su imprevisibilidad puede tomarte desprevenido. Puede cambiar repentinamente de opinión y emprender sin previo aviso una aventura a medias. Permanecer responsablemente comprometido con una relación no es su punto fuerte. Este Caballero puede encender fuegos que no puede apagar.",
+      "imgVertical": "47_caballero_de_bastos_0.jpg",
+      "imgInvertida": "47_caballero_de_bastos_1.jpg"
+    },
+    {
+      "id": "48",
+      "posicion": true,
+      "nombre": "Reina de Bastos",
+      "descVertical":
+        "Las reinas son individuos maduros y cariñosos (figuras maternas) que responden al clima emocional que rodea al consultante. Representan figuras maternas, mujeres importantes relacionadas con la situación actual y rasgos de personalidad significativos que necesita el consultante para navegar por el asunto en cuestión. Cuando está erguida, la Reina de Bastos es una mujer gregaria y enérgica que tiene una voluntad fuerte y hace las cosas. A pesar de su racha independiente, sigue dedicada al hogar y la familia. Le encanta estar en medio de la actividad, o preferiblemente estar en el centro de ella, ya menudo tiene muchos hierros en el fuego.",
+      "descInvertida":
+        "Cuando se invierte, la Reina de Bastos tiende a ser mandona y autoritaria. Le gusta que las cosas se hagan a su manera y no tolera mucha oposición a su voluntad. Su orgullo excesivo puede resultar en crueldad y propensión a guardar rencor. Tiende a querer lo que quiere cuando lo quiere y, como resultado, es posible que no respete los límites o las responsabilidades de una relación comprometida.",
+      "imgVertical": "48_reina_de_bastos_0.jpg",
+      "imgInvertida": "48_reina_de_bastos_1.jpg"
+    },
+    {
+      "id": "49",
+      "posicion": true,
+      "nombre": "Rey de Bastos",
+      "descVertical":
+        "Los reyes son personas maduras y consumadas que están a cargo de los asuntos relacionados con su traje y elemento. Representan figuras paternas, hombres importantes en la vida del consultante y rasgos de personalidad significativos que necesita el consultante para navegar la situación. Cuando está en posición vertical, el Rey de Bastos generalmente representa a una persona de autoridad que tiene un rol de liderazgo y tiene excelentes habilidades gerenciales. Es probable que sea un impulsor y agitador con intereses empresariales y una gran cantidad de entusiasmo. Con su liderazgo reflexivo y personalidad fogosa, es bueno dirigiendo a otras personas para que hagan las cosas.",
+      "descInvertida":
+        "Cuando se invierte, el Rey de Bastos puede parecer bastante dominante y egoísta. Su orgullo excesivo y su arrogancia a menudo alejan a la gente. Sus opiniones severas e intolerantes pueden causar dificultades a quienes están en relación con él. Las versiones religiosas del Rey de la Vara invertida disfrutan de las palabras de Efesios 5:22: “Casadas, sométanse a sus propios maridos, como al Señor” (NVI).",
+      "imgVertical": "49_rey_de_bastos_0.jpg",
+      "imgInvertida": "49_rey_de_bastos_1.jpg"
+    },
+    {
+      "id": "50",
+      "posicion": true,
+      "nombre": "As de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, el As de Copas sugiere nuevos comienzos en su vida emocional. Estás experimentando un período de alegría, satisfacción, camaradería, fiesta, afecto y creatividad. El amor y la fertilidad están en el aire. Es posible profundizar una relación actual o iniciar una nueva amistad o interés amoroso. Los artistas se encuentran llenos de ideas creativas. Las aguas nutritivas del As de Copas representan un tiempo fértil, capaz de producir descendencia del cuerpo o de la mente. Conmovedoras experiencias espirituales y oportunidades para la compasión también acompañan a esta carta.",
+      "descInvertida":
+        "Cuando se invierte, el As de Copas acuoso insinúa retrasos o dificultades para comenzar una nueva relación amorosa o iniciar un proyecto creativo. Esto puede resultar en una sensación de insatisfacción, inestabilidad y soledad. Algún tipo de sobreabundancia en la inmensidad del elemento Agua puede estar interfiriendo con su capacidad de concentración. El agua es un elemento necesario para la vida y el crecimiento continuo, pero el mito de Noé y el Gran Diluvio nos enseña que un exceso de agua puede actuar como una fuerza destructiva.",
+      "imgVertical": "50_as_de_copas_0.jpg",
+      "imgInvertida": "50_as_de_copas_1.jpg"
+    },
+    {
+      "id": "51",
+      "posicion": true,
+      "nombre": "Dos de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, el Dos de Copas sugiere involucrarse en una relación personal positiva con alguien. Es posible que se esté formando una amistad, una sociedad comercial o un interés amoroso. Realmente te gusta la otra persona y ella, a su vez, disfruta de tu compañía y quiere formar un vínculo más cercano. Es probable que tal relación sea mutuamente beneficiosa. Si has tenido dificultades en una relación, tendrás una oportunidad de reconciliación. Las aguas curativas de las Copas pueden traer cambios positivos a tu vida e inspirar la autoexpresión creativa. Las dos serpientes enroscadas alrededor de la vara de Hermes representan la mezcla de los dos socios. La cabeza de león alado hace referencia al signo Leo y a la quinta casa astrológica, que tiene que ver con el embarazo, el romance, la diversión, el placer sexual y las actividades creativas.",
+      "descInvertida":
+        "Cuando se invierte, el Dos de Copas implica que podrías tener dificultades con una amistad o un interés romántico. Puede ser que el estrecho vínculo que creías que existía fuera en realidad una falsa amistad o que la otra persona realmente no se preocupara por ti. Parece haber algún tipo de falta de compromiso con la relación. Si no puede resolver la falta de armonía, podría resultar en el distanciamiento o la disolución de una relación. En términos de romance, puede ser que la atracción sexual entre los socios simplemente falte. No tiene sentido seguir persiguiendo a alguien si la única respuesta que obtienes es desinterés o amor no correspondido. Una relación basada en el sexo sin amor y respeto mutuo está condenada al fracaso.",
+      "imgVertical": "51_dos_de_copas_0.jpg",
+      "imgInvertida": "51_dos_de_copas_1.jpg"
+    },
+    {
+      "id": "52",
+      "posicion": true,
+      "nombre": "Tres de Copas",
+      "descVertical":
+        "Cuando está de pie, el Tres de Copas representa a tres individuos amistosos en una celebración feliz, tal vez de una buena cosecha. Es un tiempo de felicidad, éxito, resultado favorable y abundancia. ¿Por qué se regocijan las doncellas? Quizás han recibido buenas noticias sobre un proyecto, un ascenso, la recuperación de una enfermedad, un compromiso, una boda o el nacimiento de un hijo. Sus jugos creativos están fluyendo. La cosecha ha sido abundante y saben pasárselo bien.",
+      "descInvertida":
+        "Cuando se invierte, el Tres de Copas sugiere un exceso de alegría. En lugar de disfrutar de su buena fortuna, los individuos en la tarjeta pueden estar explotando egoístamente la situación y molestando a los demás. Hay una sensación de exceso o demasiado de algo bueno. Tal vez se están comportando como animales de fiesta. Si el consultante preguntó sobre una relación, entonces pueden indicarse dificultades con la pareja o conflictos conyugales.",
+      "imgVertical": "52_tres_de_copas_0.jpg",
+      "imgInvertida": "52_tres_de_copas_1.jpg"
+    },
+    {
+      "id": "53",
+      "posicion": true,
+      "nombre": "Cuatro de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, el Cuatro de Copas sugiere que estás pasando por un período de descontento, apatía, estancamiento e insatisfacción. Los placeres de la vida simplemente no parecen animarte. Puede sentirse insatisfecho, como si faltara algo esencial en su vida. Tal vez estés sufriendo de depresión o revolcándote en la autocompasión. Te sientes atrapado en una rutina mientras te enfocas en que el vaso está medio vacío. Necesitas confrontar tus aflicciones imaginarias y encontrar una manera de motivarte para seguir adelante. ¿Te estás enfocando en la nube en lugar de su lado positivo? Aprovecha los regalos y las oportunidades que te rodean. La asociación de esta carta con la Luna sugiere que es posible que deba esperar hasta el momento adecuado en el ciclo para lograr su objetivo. Las fases de la Luna son un recordatorio de que “para cada cosa hay una temporada.",
+      "descInvertida":
+        "Cuando se invierte, el Cuatro de Copas apunta a la novedad y nuevas posibilidades que ingresan a su vida. Estos pueden tomar la forma de nuevos conocidos, nuevos aprendizajes o el establecimiento de nuevas metas para usted. El Cuatro de Copas invertido también puede anunciar la experiencia de presentimientos, premoniciones y corazonadas precisas, así que manténgase abierto a los sentimientos viscerales y señales del universo que pueden indicar nuevos caminos hacia la realización.",
+      "imgVertical": "53_cuatro_de_copas_0.jpg",
+      "imgInvertida": "53_cuatro_de_copas_1.jpg"
+    },
+    {
+      "id": "54",
+      "posicion": true,
+      "nombre": "Cinco de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, el Cinco de Copas representa una escena de decepción emocional. Es probable que haya sufrido una pérdida y que se esté concentrando en los tres vasos volcados que han derramado su contenido en lugar de en los dos vasos llenos que quedan en pie. Aunque te sientas abatido por una separación o ruptura, queda alguna esperanza de realización. A veces, su satisfacción emocional deberá provenir de su interior y no de otra persona. ¿Estás llorando por la leche derramada? Tradicionalmente, esta tarjeta también representa un regalo o herencia, pero que no está a la altura de sus esperanzas y expectativas. Aunque suene trillado, recuerda que cada nube oscura tiene un lado positivo.",
+      "descInvertida":
+        "Cuando se invierte, el Cinco de Copas sugiere que debes adoptar una perspectiva diferente para encontrar lo bueno en la situación. Aunque hayas sufrido una pérdida, la esperanza permanece si solo la buscas. Quedan dos de las copas en pie, no haber derramado su contenido. Es posible que pueda salvar una relación que pensó que se había perdido irremediablemente, o tal vez una nueva relación entre en su vida para disipar estos sentimientos de vacío. Un regalo o herencia puede ser mejor de lo previsto. Es posible que le lleguen noticias del regreso de alguien. Recuerde las palabras de Alexander Pope: “La esperanza brota eternamente en el pecho humano”.",
+      "imgVertical": "54_cinco_de_copas_0.jpg",
+      "imgInvertida": "54_cinco_de_copas_1.jpg"
+    },
+    {
+      "id": "55",
+      "posicion": true,
+      "nombre": "Seis de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, el nostálgico Seis de Copas se refiere a recuerdos agradables y relaciones agradables que regresan del pasado. Puede anunciar una reunión amistosa o el renacimiento de una antigua amistad o interés amoroso. Puede que te encuentres intercambiando regalos o compartir placeres sexuales con alguien que te importa. Esta es una carta de alegría, armonía y satisfacción. Tradicionalmente es un marcador de cosas pasadas.",
+      "descInvertida":
+        "Cuando se invierte, el Seis de Copas puede referirse a cosas que sucederán en breve o en algún momento no especificado en el futuro. Esta carta también puede indicar un deseo de refugiarse en recuerdos agradables de placeres pasados en lugar de enfrentar su situación actual. La nostalgia puede convertirse en una forma de escapismo. Por alguna razón, es posible que tenga dificultades para experimentar alegría y satisfacción en su vida en este momento.",
+      "imgVertical": "55_seis_de_copas_0.jpg",
+      "imgInvertida": "55_seis_de_copas_1.jpg"
+    },
+    {
+      "id": "56",
+      "posicion": true,
+      "nombre": "Siete de Copas",
+      "descVertical":
+        "En posición vertical, el Siete de Copas destaca la importancia de los sentimientos e imágenes que vienen a la mente durante los momentos de reflexión y contemplación. Esas imaginaciones pueden revelar nuestros deseos más salvajes, pero es posible que no se basen en la realidad. Muchas posibilidades parecen disponibles, por lo que es difícil decidir qué camino seguir. En algún momento debemos dejar de soñar despiertos, evaluar sobriamente nuestras opciones y tomar decisiones difíciles. De lo contrario, corremos el riesgo de deambular en un estado de confusión o irrealidad, como el personaje ficticio Walter Mitty.",
+      "descInvertida":
+        "Cuando se invierte, el Siete de Copas sugiere que está en el proceso de resolver la confusión de la carta vertical y elegir de manera realista entre muchas posibilidades. El período de soñar despierto ha terminado. Ahora es el momento de planificar su curso de acción con determinación y tener en cuenta lo que realmente quiere lograr. Puede surgir una oportunidad que le permita lidiar con problemas relacionados con el uso indebido de drogas o alcohol.",
+      "imgVertical": "56_siete_de_copas_0.jpg",
+      "imgInvertida": "56_siete_de_copas_1.jpg"
+    },
+    {
+      "id": "57",
+      "posicion": true,
+      "nombre": "Ocho de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, el Ocho de Copas indica que ha evaluado su situación actual y ya no se siente emocionalmente satisfactoria. Debido a esta insatisfacción con las circunstancias, ha decidido seguir adelante en busca de pastos más verdes. Quizás un proyecto o una relación no ha estado a la altura de las expectativas. Es posible que te sientas “atrapado en el lodo” y quieras buscar satisfacción en otra parte. La conclusión es que está buscando mayor alegría y felicidad porque no parece estar disponible en sus circunstancias actuales. Es importante determinar si su descontento se basa en una evaluación válida de su situación o si está actuando sobre una noción ilusoria, por ejemplo, que las rubias se divierten más.",
+      "descInvertida":
+        "Cuando se invierte, el Ocho de Copas le advierte que esté atento a la tentación de abandonar las circunstancias de su vida actual en busca de pastos más verdes. Es posible que te sientas insatisfecho con algún aspecto de tu vida, pero ahora puede no ser el momento óptimo para alejarte de las dificultades; puede ser más sabio tratar de resolver los problemas en su situación actual. Si huyes de los problemas, puedes llevártelos contigo porque son de tu propia creación. La hierba puede no ser más verde del otro lado. Reflexione sobre las palabras de Eric Samuel Timm: “A menudo no somos conscientes del declive gradual y la erosión en nuestras vidas, pero no somos inconscientes del sentimiento persistente que genera”.",
+      "imgVertical": "57_ocho_de_copas_0.jpg",
+      "imgInvertida": "57_ocho_de_copas_1.jpg"
+    },
+    {
+      "id": "58",
+      "posicion": true,
+      "nombre": "Nueve de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, el Nueve de Copas indica un período de placer, creatividad y disfrute. Los deseos se cumplen y los sueños se hacen realidad. Este es un tiempo de felicidad material y éxito en los asuntos mundanos. Te sientes particularmente creativo y sociable en este momento. Tus muchas bendiciones son motivo de celebración y de compartir tu felicidad con los demás.",
+      "descInvertida":
+        "Cuando se invierte, el Nueve de Copas sugiere un enfoque excesivo en los placeres materiales y un consumismo conspicuo. Tal comportamiento superficial te hace parecer engreído y complaciente. El éxito puede ser un arma de dos filos: puede conceder todos tus deseos, pero también puede convertirte en una versión adulta de un niño egocéntrico y malcriado.",
+      "imgVertical": "58_nueve_de_copas_0.jpg",
+      "imgInvertida": "58_nueve_de_copas_1.jpg"
+    },
+    {
+      "id": "59",
+      "posicion": true,
+      "nombre": "Diez de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, el Diez de Copas lo encuentra rodeado de relaciones amorosas, ya sean buenos amigos o familiares que lo apoyen. Este es un momento de realización y de lograr los deseos de tu corazón. El hogar es donde está el corazón, y has llegado a donde quieres estar. Dado que uno de los significados de las Copas es el poder de curar, este Diez puede representar una etapa final de curación y liberación del sufrimiento. Por agradable que parezca la escena de esta carta, es importante recordar que todas las cosas buenas deben llegar a su fin. Disfruta de tus bendiciones, pero no olvides reflexionar sobre la impermanencia de la vida.",
+      "descInvertida":
+        "Cuando se invierte, el Diez de Copas resalta los problemas familiares, las rupturas domésticas y una sensación de tristeza en el hogar. También puede haber una cierta cantidad de conflictos y tensiones en otras relaciones personales. Puede estar experimentando una falta de sentido de realización o un fracaso para lograr los deseos de su corazón; o bien has obtenido lo que deseas pero lo encuentras insuficiente. No hay una olla de oro al final del arcoíris. Crowley dice de esta tarjeta que habiendo obtenido todo lo que querías, te das cuenta de que después de todo no lo querías, y ahora debes pagar el gaitero.",
+      "imgVertical": "59_diez_de_copas_0.jpg",
+      "imgInvertida": "59_diez_de_copas_1.jpg"
+    },
+    {
+      "id": "60",
+      "posicion": true,
+      "nombre": "Sota de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, la Sota de Copas a menudo indica la recepción de una buena noticia o de un mensaje relacionado con el amor y el romance. A veces anuncia un embarazo o el nacimiento de un hijo, lo que le dará la oportunidad de cuidar a otra persona. Esta página también puede marcar el comienzo de un período de imaginación creativa y productividad artística. La Sota de Copas tiende a ser útil y considerada.",
+      "descInvertida":
+        "Cuando se invierte, la Sota de Copas tiende a pasar su tiempo en una fantasía improductiva, como si viviera en un sueño. Al desperdiciar sus talentos, puede parecer inmaduro, perezoso u ocioso. Tiende a depender demasiado de los demás para que lo cuiden y no se puede confiar en que cumplirá sus compromisos. A veces, esta página invertida resalta el miedo a sus propias necesidades de dependencia y la reticencia a asumir responsabilidades adultas que impliquen el cuidado de los demás. Las tendencias escapistas, quizás a través de las drogas o el alcohol, pueden convertirse en un problema. Sin embargo, es fácil dejarse seducir por el encanto de esta página.",
+      "imgVertical": "60_sota_de_copas_0.jpg",
+      "imgInvertida": "60_sota_de_copas_1.jpg"
+    },
+    {
+      "id": "61",
+      "posicion": true,
+      "nombre": "Caballero de Copas",
+      "descVertical":
+        "El Caballero de Copas se acerca con la promesa de amor, romance y satisfacción emocional. Es el príncipe azul de los cuentos de hadas, que viene a ayudarte a explorar tus sentimientos. Este caballero visionario puede mostrarte cómo seguir tu felicidad y hacer realidad tus sueños. También puede brindarle la inspiración para que fluya su creatividad.",
+      "descInvertida":
+        "Cuando se invierte, el seductor Caballero de Copas lanza su hechizo de manera tan convincente que no te das cuenta de que estás caminando en una ilusión. Puedes pensar que realmente se preocupa por ti, pero en",
+      "imgVertical": "61_caballero_de_copas_0.jpg",
+      "imgInvertida": "61_caballero_de_copas_1.jpg"
+    },
+    {
+      "id": "62",
+      "posicion": true,
+      "nombre": "Reina de Copas",
+      "descVertical":
+        "Cuando está en posición vertical, la Reina de Copas es una mujer sensible y cariñosa que juega un papel importante en la vida del consultante. Es capaz de sintonizar con el estado de ánimo de quienes la rodean y usar su inteligencia emocional para reconciliar las diferencias.",
+      "descInvertida":
+        "Cuando se invierte, la Reina de Copas tiende a ser demasiado sensible y emocionalmente insegura. A menudo tiene límites personales deficientes y queda atrapada en emociones negativas. Debido a su inestabilidad emocional, no es del todo digna de confianza o confiable. A veces recurre a las drogas o al alcohol para calmar sus tormentas emocionales",
+      "imgVertical": "62_reina_de_copas_0.jpg",
+      "imgInvertida": "62_reina_de_copas_1.jpg"
+    },
+    {
+      "id": "63",
+      "posicion": true,
+      "nombre": "Rey de Copas",
+      "descVertical":
+        "El Rey de Copas es un hombre de logros sensible y emocionalmente sintonizado que da buenos consejos que pueden ser de gran ayuda. A menudo es bastante culto y puede aparecer en la forma de un médico, terapeuta, consejero, clérigo u otro profesional servicial que atiende las necesidades del consultante. Algunos autores sienten que el Rey de Copas (Aire de Agua) se muestra tan frío y emocionalmente distante como él trata de dar preferencia a su intelecto mientras mantiene sus propios sentimientos en secreto.",
+      "descInvertida":
+        "Cuando se invierte, el Rey de Copas tiene dificultad para mantener su equilibrio emocional. Puede ser propenso a soñar despierto, al escapismo o al abuso de drogas o alcohol. Sus relaciones personales se caracterizan por la manipulación, la deshonestidad, la explotación y la falta de compromiso genuino. No se puede confiar en su consejo.",
+      "imgVertical": "63_rey_de_copas_0.jpg",
+      "imgInvertida": "63_rey_de_copas_1.jpg"
+    },
+    {
+      "id": "64",
+      "posicion": true,
+      "nombre": "As de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el As de Pentáculos sugiere nuevos comienzos relacionados con la salud, los asuntos monetarios y el bienestar material. En las primeras barajas de tarot, los Pentáculos eran monedas de oro, lo que sugiere que este As está relacionado con la seguridad financiera, las buenas prácticas comerciales y los logros en el mundo material. El As de Monedas a menudo acompaña la recepción de dinero, becas, una oferta de trabajo o una oportunidad para aumentar los ingresos. Tradicionalmente es una tarjeta de gran alegría. Ahora es un momento de recompensa y reconocimiento por su esfuerzo persistente y arduo trabajo. El cuidado adecuado de su cuerpo o tal vez algún logro atlético también puede ser parte de la imagen.",
+      "descInvertida":
+        "Cuando se invierte, el As de Pentáculos (monedas de oro) sugiere que algo puede haber salido mal en su búsqueda del bienestar material. Tal vez esté perdiendo una oportunidad importante para mejorar la seguridad financiera, o tal vez necesite ajustar su actitud hacia la riqueza y la prosperidad. En el mito del rey Midas, su codicia desenfrenada por la adquisición de bienes materiales lo deja privado del contacto humano. Ahora puede ser un buen momento para reflexionar sobre las enseñanzas de Buda sobre el desapego. Curiosamente, los lirios en esta carta en el Tarot Clásico de Llewellyn se asemejan al loto, un símbolo budista de desapego; el loto tiene la capacidad de elevarse por encima del lodo del pantano y producir un objeto de belleza.",
+      "imgVertical": "64_as_de_oros_0.jpg",
+      "imgInvertida": "64_as_de_oros_1.jpg"
+    },
+    {
+      "id": "65",
+      "posicion": true,
+      "nombre": "Dos de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Dos de Pentáculos sugiere que estás realizando un acto de equilibrio. Puede haber un conflicto, por ejemplo, entre las demandas del trabajo y las de la familia. Tu vida está llena de responsabilidades que debes hacer malabarismos de manera eficiente para hacer todo. A pesar de los inconvenientes, sigue caminando. En este momento, está experimentando muchos cambios que, en última instancia, lo llevarán a una sensación de mayor estabilidad. Puede sentirse como si estuviera navegando a través de aguas turbulentas con la esperanza de mares más tranquilos más adelante. Es importante permanecer flexible y adaptarse a las circunstancias. Los barcos de esta carta pueden implicar viajes o negocios en el extranjero. Esta tarjeta también puede indicar un mensaje o documento escrito.",
+      "descInvertida":
+        "Cuando se invierte, el Dos de Pentáculos implica que usted está siendo atraído en muchas direcciones por varios compromisos y tiene dificultades para adaptarse y establecer un equilibrio en su vida. Puede sentir que se va a hundir o nadar. Tal vez haya asumido más de lo que puede manejar u otros le estén exigiendo un número abrumador de su tiempo y energía. Obstáculos inesperados y condiciones erráticas están creando una sensación de turbulencia. Para disminuir su ansiedad y sensación de agitación, necesita concentrarse y traer más equilibrio a su vida, incluso si eso significa obtener ayuda externa o quitar algunos hierros del fuego.",
+      "imgVertical": "65_dos_de_oros_0.jpg",
+      "imgInvertida": "65_dos_de_oros_1.jpg"
+    },
+    {
+      "id": "66",
+      "posicion": true,
+      "nombre": "Tres de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Tres de Pentáculos indica el uso hábil de sus talentos para construir algo de calidad, a menudo en cooperación con otros. Sugiere que las personas reconocerán su madurez y realmente apreciarán su formación y experiencia. No hay nada como un trabajo bien hecho para mejorar su reputación y sentido de autoestima.",
+      "descInvertida":
+        "Cuando se invierte, el Tres de Pentáculos advierte sobre un comportamiento infantil, perezoso o inmaduro. Puede estar tomando atajos o no llevando su carga completa en el trabajo. Se volverá obvio si no está produciendo un producto de calidad y no está a la altura de su potencial. Tal vez necesite más capacitación o experiencia para estar mejor calificado para el trabajo. No te conformes con la mediocridad.",
+      "imgVertical": "66_tres_de_oros_0.jpg",
+      "imgInvertida": "66_tres_de_oros_1.jpg"
+    },
+    {
+      "id": "67",
+      "posicion": true,
+      "nombre": "Cuatro de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Cuatro de Pentáculos sugiere que su enfoque ahora está en mantener la riqueza y mejorar la seguridad material. Para aferrarse a lo que posee, se necesita una buena planificación financiera y administración del dinero. Si tiene una meta a largo plazo que requiere respaldo monetario, un plan de ahorro cuidadoso lo ayudará a lograr su sueño. Esta carta también puede marcar un período de ganancia de poder, dinero o influencia. Los tratos comerciales van bien y es posible una donación financiera o una herencia. Aunque estés tentado a aferrarte fuertemente a lo que tienes, también eres capaz de disfrutar de tu bienestar material y actuar con generosidad.",
+      "descInvertida":
+        "Cuando se invierte, el Cuatro de Pentáculos advierte de la avaricia. Puede que te estés aferrando demasiado a los bienes materiales y al poder terrenal para apreciar el valor de las relaciones humanas. Su miedo a la pérdida puede provocar un materialismo excesivo y una existencia enclaustrada que le impide hacer cambios importantes que están atrasados. Algunos de sus planes para aumentar su riqueza pueden encontrarse con obstáculos, oposición o retrasos. El mito del rey Midas ilustra los tipos de contratiempos que puede acarrear la codicia excesiva.",
+      "imgVertical": "67_cuatro_de_oros_0.jpg",
+      "imgInvertida": "67_cuatro_de_oros_1.jpg"
+    },
+    {
+      "id": "68",
+      "posicion": true,
+      "nombre": "Cinco de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Cinco de Pentáculos tradicionalmente se refiere a dos personas que permanecen muy enamoradas a pesar de los problemas materiales que deben enfrentar. Se toman en serio sus votos matrimoniales: “para bien, para mal, en la riqueza, en la pobreza, en la enfermedad y en la salud, hasta que la muerte nos separe”. Los amantes caminando en una tormenta de nieve pasan por la iglesia donde se casaron. A pesar de las finanzas en declive y la mala salud, siguen siendo devotos el uno del otro en una relación comprometida. Esta carta indica la importancia del amor y el apoyo mutuo para capear las tormentas de la vida. Muestra una voluntad de enfrentar las dificultades con un compañero de una manera de apoyo mutuo.",
+      "descInvertida":
+        "Cuando se invierte, el Cinco de Pentáculos sugiere una renuencia a cumplir un compromiso cuando las cosas se ponen difíciles. El idealismo del amor joven entra en conflicto con la dura realidad, lo que dificulta permanecer juntos cuando se enfrentan a pérdidas financieras, problemas de salud u otras circunstancias difíciles. Bastante En lugar de intentar reconciliar las diferencias y hacer que sus lazos emocionales sean más satisfactorios, se inclina a darse por vencido y buscar satisfacción en otra parte. En esencia, puede estar decidiendo dejar a su pareja en el frío, o puede encontrarse pasando por una experiencia de este tipo.",
+      "imgVertical": "68_cinco_de_oros_0.jpg",
+      "imgInvertida": "68_cinco_de_oros_1.jpg"
+    },
+    {
+      "id": "69",
+      "posicion": true,
+      "nombre": "Seis de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Seis de Pentáculos implica que el dinero y los recursos se distribuyen de manera justa y socialmente responsable. Si su situación financiera es segura, es posible que lo llamen para ayudar a los menos afortunados. Si tiene una necesidad actual, es probable que haya recursos esenciales y ayuda financiera disponibles. Un significado esencial de esta tarjeta es que se está pasando algo de valor. de una persona a otra en un espíritu de verdadera generosidad. En palabras del discurso inaugural del presidente John F. Kennedy de 1961: “No preguntes qué puede hacer tu país por ti; Pregunta qué puedes hacer por tu país. Si su pregunta era sobre el mejor momento para actuar, esta tarjeta sugiere queahoraes el momento oportuno. ¡Ahora! La idea de que el presente es el tiempo aceptado puede estar relacionada con la asociación de esta carta con la Luna a medida que pasa por las fases, pero astrológicamente es mejor cuando transita por el signo de Tauro.",
+      "descInvertida":
+        "Cuando se invierte, el Seis de Pentáculos sugiere una distribución injusta o no equitativa de la riqueza y los recursos. Tal vez su situación implique algún tipo de nepotismo, favoritismo, ingratitud por la ayuda recibida o envidia de la buena fortuna de otra persona. Puede que estés despilfarrando tu fortuna o usando tu riqueza para fines puramente egoístas sin tener en cuenta el bienestar del planeta o el de tus semejantes. Sea responsable con su dinero. A nadie le gusta escuchar que el cheque está en el correo. Quizás “ahora” no es el momento.",
+      "imgVertical": "69_seis_de_oros_0.jpg",
+      "imgInvertida": "69_seis_de_oros_1.jpg"
+    },
+    {
+      "id": "70",
+      "posicion": true,
+      "nombre": "Siete de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Siete de Pentáculos muestra a un granjero que se ha detenido en medio de sus labores para evaluar su progreso y planificar sus próximos movimientos. Ha trabajado duro para llegar a este punto y es muy consciente de que sus esfuerzos eventualmente darán sus frutos. Quizás se esté preguntando qué más debe hacer en este momento. Cuando plantamos semillas, sabemos que ninguna cantidad de impaciencia de nuestra parte acelerará su crecimiento. En cambio, el cuidado diligente, el cultivo responsable y el respeto por los ciclos naturales producirán una cosecha abundante. El planeta Saturno asociado a esta carta es un capataz estricto que, al final, nos da lo que nos merecemos. Como leemos en la Biblia, “Todo lo que el hombre sembrare, eso también segará” (Gálatas 6:7, NVI).",
+      "descInvertida":
+        "Cuando se invierte, el Siete de Pentáculos sugiere que siente aprensión por la seguridad financiera. Tal vez le preocupe que no habrá un rendimiento suficiente de su inversión de tiempo, recursos o dinero. El problema es que las inversiones suelen tardar en madurar y no se pueden apresurar. La impaciencia puede resultar en recursos desperdiciados, proyectos fallidos u oportunidades perdidas. Debe evaluar su situación de manera realista y seguir los principios de una buena gestión fiscal si desea tener éxito. Si no está seguro de qué hacer, obtenga el asesoramiento de un consultor experto. Soñar despierto o concentrarse en asuntos irrelevantes no lo ayudará a reevaluar la situación que le está causando ansiedad. El planeta Saturno asociado con esta carta implica que necesitas mantener tu nariz a la muela. Obtendrá tanto de su proyecto como ponga en él; Sin dolor no hay ganancia.",
+      "imgVertical": "70_siete_de_oros_0.jpg",
+      "imgInvertida": "70_siete_de_oros_1.jpg"
+    },
+    {
+      "id": "71",
+      "posicion": true,
+      "nombre": "Ocho de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Ocho de Pentáculos muestra a un artesano perfeccionando sus habilidades y trabajando diligentemente para hacer un trabajo excelente. Esta es una tarjeta de capacitación y aprendizaje con el objetivo de perfeccionar las habilidades para producir un producto de calidad. Hay mucha satisfacción en atender los detalles y hacer las cosas bien, aunque se necesiten varios intentos para hacerlo bien. El artesano de la tarjeta está dispuesto a dedicar el tiempo y el esfuerzo necesarios. Entiende la necesidad de ser paciente y permitir que las cosas maduren adecuadamente en lugar de intentar acelerar el proceso. Tradicionalmente, esta carta se refiere a una campesina amable y modesta que se enfrenta a sus tareas diligentemente sin quejarse ni quejarse. pretensión, simbolizada por el signo de Virgo asociado a la carta.",
+      "descInvertida":
+        "Cuando se invierte, el Ocho de Pentáculos sugiere que es posible que no esté dedicando el tiempo y el esfuerzo necesarios para hacer bien un trabajo. Tal vez no le importe producir un producto de calidad, o tal vez esté tomando atajos solo para hacer el trabajo. Recuerda que Roma no se construyó en un día. Aunque puede haber una ganancia a corto plazo en su enfoque actual, a la larga es probable que sienta una sensación de insatisfacción. Cuando llega la tormenta, es reconfortante saber que has guardado algo para un día lluvioso.",
+      "imgVertical": "71_ocho_de_oros_0.jpg",
+      "imgInvertida": "71_ocho_de_oros_1.jpg"
+    },
+    {
+      "id": "72",
+      "posicion": true,
+      "nombre": "Nueve de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Nueve de Pentáculos representa a la virgen perspicaz del signo Virgo, una doncella autosuficiente inspirada en Astraea/Dike, la diosa de la pureza y la justicia que sostenía un grano de trigo en su mano izquierda. Bajo el gobierno de Astraea, la raza humana disfrutó de paz, prosperidad, clima perfecto y eterna juventud. Desafortunadamente, la creciente vileza del comportamiento humano hizo que la diosa perspicaz huyera a los cielos donde se convirtió en la constelación de Virgo, aislada de la maldad de la humanidad. El Nueve de Pentáculos es una carta de logro, refinamiento, fortuna material y disfrute de los frutos de la cosecha. Indica ser recompensado por la discreción, el trabajo duro, el cuidado meticuloso y la planificación prudente.",
+      "descInvertida":
+        "Cuando se invierte, el Nueve de Pentáculos sugiere una situación en la que alguien actúa de mala fe o bloquea tu progreso. Como resultado de engaños o promesas incumplidas, un proyecto puede fallar en materializarse o necesitar ser abortado. Tal vez estabas contando con alguien para mantener su palabra, solo para descubrir que te han dejado en la estacada. Puede terminar sintiéndose aislado o sintiendo que la seguridad se ha visto comprometida. Habiendo planeado y cultivado cuidadosamente tu jardín, descubres que aún no ha llegado el momento de disfrutar de la cosecha.",
+      "imgVertical": "72_nueve_de_oros_0.jpg",
+      "imgInvertida": "72_nueve_de_oros_1.jpg"
+    },
+    {
+      "id": "73",
+      "posicion": true,
+      "nombre": "Diez de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Diez de Pentáculos representa un entorno familiar seguro poblado por varias generaciones, incluidos los perros de la familia. El patriarca de la familia aparentemente ha provisto bien a sus hijos y nietos y sin duda les dejará una herencia. No tiene mucho sentido acumular riqueza solo para atesorarla. La familia de esta tarjeta disfruta de los beneficios de una buena planificación financiera y de inversiones sabias. Incluso las mascotas de la familia están bien cuidadas.",
+      "descInvertida":
+        "Cuando se invierte, el Diez de Pentáculos insinúa una disputa familiar relacionada con la inseguridad financiera o un asunto de legado o herencia. La persona a cargo de la planificación de las necesidades de sus dependientes, en cambio, ha sido culpable de especulación imprudente o mala planificación financiera. En algunos casos, esta tarjeta puede resaltar problemas relacionados con el juego. Alternativamente, la persona que debería mantener a la familia ha optado por atesorar su riqueza en lugar de utilizarla en beneficio de los demás.",
+      "imgVertical": "73_diez_de_oros_0.jpg",
+      "imgInvertida": "73_diez_de_oros_1.jpg"
+    },
+    {
+      "id": "74",
+      "posicion": true,
+      "nombre": "Sota de Oros",
+      "descVertical":
+        "En posición vertical, la Sota de Monedas indica el debido cuidado del propio cuerpo y el respeto por el entorno natural. Es un buen estudiante que trabaja duro y sistemáticamente para perfeccionar sus habilidades y lograr sus metas. Este paje erudito y diligente suele ser el portador de noticias relacionadas con el trabajo, un examen o una inquietud financiera.",
+      "descInvertida":
+        "Cuando se invierte, la Sota de Pentáculos puede traer noticias decepcionantes sobre un examen, una oferta de trabajo o algún otro asunto financiero. En lugar de poner el esfuerzo requerido, esta página invertida trata de administrar haciendo la menor cantidad de trabajo necesario. A menudo, esto conduce al fracaso o a resultados menos que estelares. Tiende a ser descuidado con el cuidado de su cuerpo y prefiere salir a un bar con amigos que pasar tiempo en el gimnasio.",
+      "imgVertical": "74_sota_de_oros_0.jpg",
+      "imgInvertida": "74_sota_de_oros_1.jpg"
+    },
+    {
+      "id": "75",
+      "posicion": true,
+      "nombre": "Caballero de Oros",
+      "descVertical":
+        "Cuando está en posición vertical, el Caballero de Pentáculos representa a una persona paciente y trabajadora cuyo principal objetivo es hacer bien el trabajo. Su enfoque principal es el bienestar financiero y material, por lo que a veces puede parecer que no está disponible emocionalmente, ya que pasa la mayor parte de su tiempo trabajando. No obstante, es digno de confianza y digno de confianza, un buen proveedor, y ofrecerá al consultante una fuerte sensación de seguridad.",
+      "descInvertida":
+        "Cuando se invierte, el Caballero de Pentáculos avanza pesadamente de una manera aburrida y ociosa. Puede ser bastante perezoso e inflexible en su forma de pensar, y es casi seguro que es emocionalmente obtuso. Su rigidez y falta de motivación pueden hacer que se estanque en lugar de avanzar en el curso de su vida. Alternativamente, puede estar tan concentrado en el trabajo y la seguridad material que descuide sus compromisos emocionales y otros aspectos de su vida.",
+      "imgVertical": "75_caballero_de_oros_0.jpg",
+      "imgInvertida": "75_caballero_de_oros_1.jpg"
+    },
+    {
+      "id": "76",
+      "posicion": true,
+      "nombre": "Reina de Oros",
+      "descVertical":
+        "Cuando está erguida, la Reina de Pentáculos es hábil para atender las necesidades materiales. Es posible que te esté recordando que hagas suficiente ejercicio, acudas a la cita con el médico o te ocupes adecuadamente de tus finanzas. Nuestros recursos naturales son un regalo que se nos ha confiado. Esta reina es especialmente fértil y puede estar embarazada o con ideas creativas sobre una nueva empresa comercial. Ella acudirá en tu ayuda cuando estés en necesidad financiera.",
+      "descInvertida":
+        "Cuando se invierte, la Reina de Pentáculos le advierte que cuide adecuadamente su cuerpo y su bienestar material. Tal vez no ha estado haciendo suficiente ejercicio o no ha hecho suficiente planificación financiera para lograr la seguridad financiera. ¿Estás demasiado concentrado en los placeres hedonistas que estás descuidando para prepararte para un día lluvioso? No dejes que la codicia y la sospecha interfieran con tu avance en la vida.",
+      "imgVertical": "76_reina_de_oros_0.jpg",
+      "imgInvertida": "76_reina_de_oros_1.jpg"
+    },
+    {
+      "id": "77",
+      "posicion": true,
+      "nombre": "Rey de Oros",
+      "descVertical":
+        ". Cuando está de pie, el Rey de Pentáculos representa a una persona productiva de autoridad, habilidad y sabiduría práctica en el mundo material. Puede tener aptitudes para las ciencias y las matemáticas. Esta tarjeta sugiere que puede hacerse cargo de la situación y lograr el éxito en los negocios, la ciencia o algún otro campo de actividad establecido. El Rey de las Monedas de Oro en posición vertical a menudo presagia una mejora en las circunstancias financieras o un avance relacionado con la carrera. Este Rey sabe cómo lograr el éxito y el estatus mundano.",
+      "descInvertida":
+        "Cuando se invierte, esta carta puede advertir sobre riesgos financieros, codicia, celos, deshonestidad, irresponsabilidad o actuar por conveniencia en lugar de seguir un curso de acción prudente. El mítico Rey Midas, preocupado por adquirir oro, es una encarnación del Rey de Oros al revés. El Rey de Monedas invertido está relacionado temáticamente con el Cuatro de Pentáculos.",
+      "imgVertical": "77_rey_de_oros_0.jpg",
+      "imgInvertida": "77_rey_de_oros_1.jpg"
+    }
+  ]

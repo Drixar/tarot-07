@@ -1,0 +1,335 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.lectura_completa {
+  @include pagina;
+  height: 100vh;
+  background-image: url("../images/fondo-pagina.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-top: 1px solid map-get($colores, principal-1);
+}
+
+body {
+  background: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  font-weight: normal;
+}
+
+.description a {
+  color: gold;
+}
+
+.panio {
+  width: 100%;
+}
+
+.boton {
+  width: 100%;
+  height: 5rem;
+  
+  justify-content: center;
+}
+
+.btn {
+  background: gold;
+  width: 20rem;
+  height: 3rem;
+  padding: 10px 20px;
+  border-radius: 30px;
+  margin: 10px;
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #444;
+}
+
+.posicion {
+  width: 5rem;
+  height: 8.5rem;
+  box-sizing: border-box;
+  padding: 0.25rem;
+  background-color: black;
+  border-radius: 0.5rem;
+  font-size: 30pt;
+  color: black;
+  transition: all 0.5s;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 5px 3px #555;
+  img {
+    width: 4.5rem;
+    border-radius: 0.25rem;
+    display: none;
+  }
+}
+
+.cartaPergamino {
+  width: 10rem;
+  height: 17rem;
+  box-sizing: border-box;
+  padding: .25rem;
+  background-color: white;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: .5rem;
+  font-size: 30pt;
+  color: black;
+  position: relative;
+  transition: all 0.5s;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 5px 3px #555;
+
+  img {
+    width: 9.5rem;
+    border-radius: .25rem;
+    display: none;
+  }
+}
+
+.textoCarta {
+  cursor: pointer;
+}
+
+.tirada {
+  width: 5rem;
+  height: 8.5rem;
+  box-sizing: border-box;
+  padding: 0.25rem;
+  background-color: white;
+  display: inline-block;
+  border-radius: 0.5rem;
+  font-size: 30pt;
+  // text-align: center;
+  color: black;
+  position: relative;
+  transition: all 0.5s;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 5px 3px #555;
+
+  img {
+    width: 4.5rem;
+    border-radius: 0.25rem;
+    display: none;
+  }
+}
+
+#mainBox {
+  
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#leftBox {
+  
+  justify-content: center;
+  flex-wrap: nowrap;
+  margin: 0;
+  padding: 0;
+  flex-direction: row;
+}
+
+#rightBox {
+  
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#topBox {
+  
+  padding: 0;
+  margin: 0;
+  flex-direction: column;
+  align-items: center;
+}
+
+#centerBox {
+  
+  padding: 0 !important;
+  margin: 0 !important;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#bottomBox {
+  
+  flex-direction: column;
+  align-items: center;
+}
+
+#buttons {
+  
+  flex-direction: row;
+  justify-content: center;
+}
+
+#box {
+  
+  flex-direction: column;
+  align-items: center;
+}
+
+.card--lado {
+  backface-visibility: hidden;
+  border-radius: 5px;
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+#card1,
+#card2,
+#card3,
+#card4,
+#card5,
+#card6,
+#card7,
+#card8,
+#card9,
+#card10 {
+  display: inline-block;
+  // cursor: pointer;
+  transform-style: preserve-3d;
+  transition: all 0.5s;
+
+  &:after {
+    position: absolute;
+    // z-index: -1;
+    // box-shadow: 0 14px 50px -4px hsla(0, 0%, 0%, 0.15);
+    // opacity: 0;
+    // transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1.4);
+  }
+}
+
+#card2 {
+  position: absolute;
+  z-index: 10;
+
+
+  img {
+    transform: rotate(90deg);
+  }
+}
+
+#card1 {
+  z-index: 0;
+}
+#posicion {
+  font-family: 'Indie Flower', cursive;
+  color: #2e0101;
+  padding-right: 2.5rem;
+  font-weight: 300;
+  font-size: 1.25rem;
+
+  strong {
+    font-family: 'Indie Flower', cursive;
+    color: rgb(138, 8, 8);
+  }
+}
+
+#lectura {
+  font-family: 'Indie Flower', cursive;
+  color: rgb(99, 34, 34);
+  padding: 1rem 2.5rem 0 0;
+  font-weight: 300;
+  font-size: 1.75rem;
+}
+
+#descripcion {
+  font-family: 'Indie Flower', cursive;
+  color: rgb(51, 3, 3);
+  height: 30vh;
+  padding: .5rem;
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+#pergamino {
+  background-size: 100% auto;
+  vertical-align: middle;
+  background-position: top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 70vh;
+}
+
+#pos1,
+#pos2,
+#pos3,
+#pos4,
+#pos5,
+#pos6,
+#pos7,
+#pos8,
+#pos9,
+#pos10 {
+  position:relative;
+}
+
+.row {
+  
+  justify-content: center;
+  justify-items: center;
+}
+
+#card1--frente,
+#card2--frente,
+#card3--frente,
+#card4--frente,
+#card5--frente,
+#card6--frente,
+#card7--frente,
+#card8--frente,
+#card9--frente,
+#card10--frente {
+  position: absolute;
+  transition: all 0.5s;
+  z-index: 2;
+}
+
+#card1--reverso,
+#card2--reverso,
+#card3--reverso,
+#card4--reverso,
+#card5--reverso,
+#card6--reverso,
+#card7--reverso,
+#card8--reverso,
+#card9--reverso,
+#card10--reverso {
+  transition: all 0.5s;
+  transform: rotateY(-180deg);
+  position: relative;
+}
+
+.leyendo {
+  transform: rotateY(180deg) !important;
+
+  &:after {
+    display: none;
+  }
+
+}
+
+.resaltada {
+  img {
+    background-color: yellow;
+    box-shadow: 2px 2px 5px 3px gold;
+    z-index: 100;
+  }
+}

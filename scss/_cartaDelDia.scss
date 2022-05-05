@@ -1,0 +1,250 @@
+/*********************************/
+/*********CARTA DEL DIA***********/
+/*********************************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.carta_del_dia {
+  @include pagina;
+  height: 100vh;
+  background-image: url("../images/fondo-pagina.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-top: 1px solid map-get($colores, principal-1);
+}
+
+
+body {
+  background: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  font-weight: normal;
+}
+
+.description a {
+  color: gold;
+}
+
+.panio {
+  width: 100%;
+}
+
+.boton {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  background: gold;
+  width: 20rem;
+  height: 3rem;
+  padding: 10px 20px;
+  border-radius: 2rem;
+  margin: 10px;
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #444;
+}
+
+#deck {
+  padding: 2rem;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: "Abril Fatface", cursive;
+
+}
+
+.card {
+  width: 5rem;
+  height: 8.5rem;
+  box-sizing: border-box;
+  padding: .25rem;
+  background-color: white;
+  display: inline-block;
+  border-radius: .5rem;
+  font-size: 30pt;
+  text-align: left;
+  color: black;
+  margin-left: -4.7rem;
+  position: relative;
+  transition: all 0.5s;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 5px 3px #555;
+
+  img {
+    width: 4.5rem;
+    border-radius: .25rem;
+  }
+
+  &.card:hover {
+    top: -1rem;
+    background-color: gray;
+    box-shadow: 2px 2px 8px 3px #333;
+  }
+}
+
+.posicionunacarta {
+  width: 10rem;
+  height: 17rem;
+  box-sizing: border-box;
+  padding: .25rem;
+  background-color: black;
+  display: inline-block;
+  border-radius: .5rem;
+  font-size: 30pt;
+  color: black;
+  position: relative;
+  transition: all 0.5s;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 5px 3px #555;
+
+  img {
+    width: 4.5rem;
+    border-radius: .25rem;
+    display: none;
+  }
+}
+
+.unacarta {
+  width: 10rem;
+  height: 17rem;
+  box-sizing: border-box;
+  padding: .25rem;
+  background-color: white;
+  display: inline-block;
+  border-radius: .5rem;
+  font-size: 30pt;
+  color: black;
+  position: relative;
+  transition: all 0.5s;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 5px 3px #555;
+
+  img {
+    width: 9.5rem;
+    border-radius: .25rem;
+    display: none;
+  }
+}
+
+#mainBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap-reverse;
+}
+
+#leftBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#rightBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#topBox {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  flex-direction: column;
+  align-items: center;
+}
+
+#centerBox {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#bottomBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#cartaSeleccionada {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#deck {
+  height: 30vh;
+  // margin-left: 2.35rem;
+  align-items: center;
+  justify-content: center;
+}
+
+#posicionunacarta {
+  height: 20vh;
+  background-color: black;
+
+  p {
+    font-size: 1rem;
+  }
+}
+
+#interpretacion {
+  height: 60vh;
+  background-color: transparent;
+  background-image: url("../images/pergamino-unacarta.png");
+  font-family: 'Indie Flower', cursive;
+  color: rgb(51, 3, 3);
+  font-size: 1rem;
+  font-weight: 300;
+  background-size: 100% auto;
+  padding: 2.5rem 3rem 0 3rem;
+  vertical-align: top;
+  background-position: top;
+  vertical-align: middle;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#salir {
+  background-color: red;
+  display: none;
+}
+
+#sacar {
+  background-color: green;
+}

@@ -1,0 +1,158 @@
+$colores: (
+  principal-1: rgba(255, 35, 35, 1),
+  principal-8: rgba(255, 35, 35, 0.8),
+  principal-2: rgba(255, 35, 35, 0.2),
+  trans: rgba(245, 245, 245, 0.7),
+  frente: rgba(245, 245, 245, 1),
+  fondo: rgba(0, 0, 0, 1),
+  sombra: rgba(0, 0, 0, 0.7),
+  oscuro: rgba(20, 20, 20, 1),
+
+);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "roboto";
+}
+
+%tarj {
+  background-color: map-get($colores, trans);
+  padding: 1rem;
+  transition: 0.5s ease-in-out;
+}
+
+@mixin tarjeta {
+  @extend %tarj;
+  position: relative;
+  align-items: center;
+}
+
+@mixin boton($fondo, $letra:map-get($colores, frente), $sombra:map-get($colores, frente)) {
+  background-color: $fondo;
+  color: $letra;
+  width: 8rem;
+  margin-top: 1rem;
+  box-shadow: 0 3px 10px $sombra;
+  transition: 0.5s ease-in-out;
+  font-weight: 300;
+  text-decoration: none;
+
+  &:hover {
+    background-color: $fondo;
+    color: map-get($colores, frente);
+    box-shadow: none;
+  }
+}
+
+@mixin icon_display($color) {
+  display: inline-block;
+  color: map-get($colores, $color);
+  width: 2.25rem;
+  height: 2.25rem;
+  line-height: 2rem;
+  text-align: center;
+  text-justify: auto;
+  border-radius: 50%;
+  border: 0.2rem solid map-get($colores, $color);
+  transition: all 0.5s ease;
+}
+
+@mixin icon_glow($color) {
+  @include icon_display($color);
+  color: map-get($colores, $color);
+  border: 0.2rem solid map-get($colores, $color);
+  box-shadow: 0 0 15px map-get($colores, $color);
+  text-shadow: 0 0 15px map-get($colores, $color);
+  transition: all 0.5s ease;
+}
+
+@mixin pagina {
+  background: map-get($colores, fondo);
+  font-family: sans-serif;
+  overflow: hidden;
+  border-style: none;
+  padding: 1rem;
+  text-align: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 400;
+  color: map-get($colores, fondo);
+}
+h2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: map-get($colores, frente);
+  background-color: map-get($colores, fondo);
+  border-bottom: 1px solid map-get($colores, principal-1);
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+p,
+a {
+  font-size: 1rem;
+  font-weight: 200;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 3rem;
+    font-weight: 400;
+  }
+  h2 {
+    font-size: 2rem;
+    font-weight: 300;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+    font-weight: 300;
+  }
+  p,
+  a {
+    font-size: 1rem;
+    font-weight: 300;
+  }
+}
+
+@media (min-width: 1200px) {
+  h1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+  }
+  h2 {
+    font-size: 2.5rem;
+    font-weight: 300;
+  }
+
+  h3 {
+    font-size: 1.75rem;
+    font-weight: 300;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+  h5 {
+    font-size: 1rem;
+    font-weight: 300;
+  }
+
+  p {
+    font-size: .75rem;
+    font-weight: 300;
+  }
+  a {
+    font-size: 1rem;
+    font-weight: 300;
+  }
+}
